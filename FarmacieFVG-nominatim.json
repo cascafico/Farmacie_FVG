@@ -1,0 +1,4063 @@
+[
+    {
+      "id"  : 5478,
+      "lat" : 45.6260149,
+      "lon" : 13.7951816,
+      "tags" : {
+               "addr" : "Piazzale Valmaura  11, TRIESTE",
+               "ref:mds" : "5478",
+               "start_date" : "2013-01-01",
+               "ref:vatin" : "IT01222990325",
+               "name" : "Serdoz S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5479,
+      "lat" : 45.6539887,
+      "lon" : 13.7754037,
+      "tags" : {
+               "addr" : "Piazza Guglielmo Oberdan  2, TRIESTE",
+               "ref:mds" : "5479",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00210240321",
+               "name" : "Comunale  - Al Cedro",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5480,
+      "lat" : 45.6512315,
+      "lon" : 13.7762868,
+      "tags" : {
+               "addr" : "Piazza San Giovanni  5, TRIESTE",
+               "ref:mds" : "5480",
+               "start_date" : "2007-12-01",
+               "ref:vatin" : "IT01133710325",
+               "name" : "De Leitenburg Di Maria Modugno",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5481,
+      "lat" : 45.7501145,
+      "lon" : 13.6726773,
+      "tags" : {
+               "addr" : "Aurisina  106/f, DUINO-AURISINA",
+               "ref:mds" : "5481",
+               "operator" : "Ciana Donatella, Maraspin Marina, Nacci Stefano - S.N.C.",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01280870328",
+               "name" : "Farmacia San Rocco",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5482,
+      "lat" : 45.6453884,
+      "lon" : 13.7768708,
+      "tags" : {
+               "addr" : "Via Lorenzo Bernini  4, TRIESTE",
+               "ref:mds" : "5482",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01051330320",
+               "name" : "Penso Paolo",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5483,
+      "lat" : 45.6860973,
+      "lon" : 13.7879671,
+      "tags" : {
+               "addr" : "Piazzale Monte Re  3/2, TRIESTE",
+               "ref:mds" : "5483",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01121340325",
+               "name" : "Farmacia All'obelisco Di Daniela Logar",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5484,
+      "lat" : 45.6542145,
+      "lon" : 13.7872513,
+      "tags" : {
+               "addr" : "Via Giulia  14, TRIESTE",
+               "ref:mds" : "5484",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00854770328",
+               "name" : "All'amazzone Trionfante S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5485,
+      "lat" : 45.6499089,
+      "lon" : 13.7731777,
+      "tags" : {
+               "addr" : "Corso Italia  14, TRIESTE",
+               "ref:mds" : "5485",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00112890322",
+               "name" : "Al Corso",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5486,
+      "lat" : 45.6616095,
+      "lon" : 13.7715092,
+      "tags" : {
+               "addr" : "Via Tor San Piero  2, TRIESTE",
+               "ref:mds" : "5486",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00888590320",
+               "name" : "All'aquila Imperiale",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5487,
+      "lat" : 45.6401165,
+      "lon" : 13.7829218,
+      "tags" : {
+               "addr" : "Via dellIstria  33, TRIESTE",
+               "ref:mds" : "5487",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01223910322",
+               "name" : "Alla Santa Maria Maddalena",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5488,
+      "lat" : 45.6446785,
+      "lon" : 13.7825552,
+      "tags" : {
+               "addr" : "Largo Sidney Sonnino  4, TRIESTE",
+               "ref:mds" : "5488",
+               "operator" : "Zuccheri & C.",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01289570325",
+               "name" : "Farmacia Al San Giusto S.N.C.",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5489,
+      "lat" : 45.6524743,
+      "lon" : 13.7722558,
+      "tags" : {
+               "addr" : "Via Roma  16, TRIESTE",
+               "ref:mds" : "5489",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00774490320",
+               "name" : "Biasoletto - All'orso Nero",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5490,
+      "lat" : 45.6466326,
+      "lon" : 13.7624633,
+      "tags" : {
+               "addr" : "Piazza Venezia  2, TRIESTE",
+               "ref:mds" : "5490",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00508900321",
+               "name" : "Al Sant'andrea",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5491,
+      "lat" : 45.625733,
+      "lon" : 13.7822937,
+      "tags" : {
+               "addr" : "Via di Servola  44, TRIESTE",
+               "ref:mds" : "5491",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT00637410325",
+               "name" : "Al San Lorenzo",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5492,
+      "lat" : 45.6475012,
+      "lon" : 13.7960697,
+      "tags" : {
+               "addr" : "Via Umberto Felluga  46, TRIESTE",
+               "ref:mds" : "5492",
+               "start_date" : "2008-01-01",
+               "ref:vatin" : "IT01099100321",
+               "name" : "San Luigi",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5493,
+      "lat" : 45.6494322,
+      "lon" : 13.776556,
+      "tags" : {
+               "addr" : "Via Silvio Pellico  1, TRIESTE",
+               "ref:mds" : "5493",
+               "start_date" : "2018-01-01",
+               "ref:vatin" : "IT01303840324",
+               "name" : "Farmacia Rovis All'angelo D'oro Dott. Adriano Pegan - S.R.L.",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5494,
+      "lat" : 45.6538093,
+      "lon" : 13.7781704,
+      "tags" : {
+               "addr" : "Largo Piave  2, TRIESTE",
+               "ref:mds" : "5494",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00570230326",
+               "name" : "Alla Madonna Del Mare",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5495,
+      "lat" : 41.4677934,
+      "lon" : 12.9086519,
+      "tags" : {
+               "addr" : "Via Giuseppe Mazzini  43, TRIESTE",
+               "ref:mds" : "5495",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00747530327",
+               "name" : "Alla Testa D'oro",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5498,
+      "lat" : 45.6145125,
+      "lon" : 13.8588573,
+      "tags" : {
+               "addr" : "Bagnoli della Rosandra  64, SAN DORLIGO DELLA VALLE",
+               "ref:mds" : "5498",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT01162110322",
+               "name" : "Valrosandra Della Dr. Milena Rustia E C. S.A.S",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5499,
+      "lat" : 45.6302501,
+      "lon" : 13.7881707,
+      "tags" : {
+               "addr" : "Via Antonio Baiamonti  52, TRIESTE",
+               "ref:mds" : "5499",
+               "start_date" : "2018-06-01",
+               "ref:vatin" : "IT01231120328",
+               "name" : "Farmacia Baiamonti Delle Dott.Sse Paola E Marina Casaretto S.N.C.",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5500,
+      "lat" : 45.6068374,
+      "lon" : 13.8081723,
+      "tags" : {
+               "addr" : "Via Flavia Di Aquilinia  39/c, MUGGIA",
+               "ref:mds" : "5500",
+               "start_date" : "2017-12-01",
+               "ref:vatin" : "IT01300740329",
+               "name" : "Farmacia Aquilinia",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5501,
+      "lat" : 45.6561233,
+      "lon" : 13.805287,
+      "tags" : {
+               "addr" : "Piazzale Vincenzo Gioberti  8/F, TRIESTE",
+               "ref:mds" : "5501",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01222510321",
+               "name" : "Farmacie Zamboni S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5502,
+      "lat" : 45.6267177,
+      "lon" : 13.8054878595441,
+      "tags" : {
+               "addr" : "Via Costalunga  318/a, TRIESTE",
+               "ref:mds" : "5502",
+               "start_date" : "2008-01-01",
+               "ref:vatin" : "IT01110080320",
+               "name" : "Costalunga",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5503,
+      "lat" : 45.6218558,
+      "lon" : 13.8000361,
+      "tags" : {
+               "addr" : "Via Pietro Mascagni  2, TRIESTE",
+               "ref:mds" : "5503",
+               "operator" : "Pierpaolo Torresinie Fulvio Marega Snc",
+               "start_date" : "2016-02-01",
+               "ref:vatin" : "IT01274290327",
+               "name" : "Flavia ",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5504,
+      "lat" : 45.6533229,
+      "lon" : 13.7729617,
+      "tags" : {
+               "addr" : "Via Roma  15, TRIESTE",
+               "ref:mds" : "5504",
+               "start_date" : "2008-01-01",
+               "ref:vatin" : "IT01136270327",
+               "name" : "All'esculapio",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5505,
+      "lat" : 45.6513156,
+      "lon" : 13.7743393,
+      "tags" : {
+               "addr" : "Via Dante Alighieri  7, TRIESTE",
+               "ref:mds" : "5505",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT00833350325",
+               "name" : "Alla Madonna - Farmacie Neri Di Andrea E Bruno Neri-",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5506,
+      "lat" : 45.665072,
+      "lon" : 13.7711161,
+      "tags" : {
+               "addr" : "Via Lionello Stock  9, TRIESTE",
+               "ref:mds" : "5506",
+               "operator" : "M.T.Cadore & C. Snc",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01288640327",
+               "name" : "Farmacia Sponza",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5507,
+      "lat" : 45.6505451,
+      "lon" : 13.7708069,
+      "tags" : {
+               "addr" : "Piazza della Borsa  12, TRIESTE",
+               "ref:mds" : "5507",
+               "start_date" : "2016-01-01",
+               "ref:vatin" : "IT01059710325",
+               "name" : "Farmacia Alla Borse S.N.C Di Confortini U. E Rodolfi P.",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5508,
+      "lat" : 45.6985379,
+      "lon" : 13.8320473,
+      "tags" : {
+               "addr" : "Via Fernetti  14, MONRUPINO",
+               "ref:mds" : "5508",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT00573230323",
+               "name" : "Fernetti",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5510,
+      "lat" : 45.6506118,
+      "lon" : 13.7823855,
+      "tags" : {
+               "addr" : "Via Brunner  14, TRIESTE",
+               "ref:mds" : "5510",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01213470329",
+               "name" : "Ai Due Lucci Di Raffaella Ljuba Pines Cavedon",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5511,
+      "lat" : 45.6416859,
+      "lon" : 13.7814271,
+      "tags" : {
+               "addr" : "Via dellIstria  18, TRIESTE",
+               "ref:mds" : "5511",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00797810322",
+               "name" : "All'alabarda",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5512,
+      "lat" : 45.6646157,
+      "lon" : 13.7831738,
+      "tags" : {
+               "addr" : "Via Commerciale  21, TRIESTE",
+               "ref:mds" : "5512",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00288950322",
+               "name" : "Alla Croce Azzurra",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5513,
+      "lat" : 45.6500654,
+      "lon" : 13.8154984,
+      "tags" : {
+               "addr" : "Strada per Longera  172, TRIESTE",
+               "ref:mds" : "5513",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT01158980324",
+               "name" : "Guardiella",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5515,
+      "lat" : 45.6424401,
+      "lon" : 13.7876292,
+      "tags" : {
+               "addr" : "Via delle Settefontane  39, TRIESTE",
+               "ref:mds" : "5515",
+               "start_date" : "2009-06-01",
+               "ref:vatin" : "IT01162910325",
+               "name" : "Rubino S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5517,
+      "lat" : 45.7080969,
+      "lon" : 13.7319902,
+      "tags" : {
+               "addr" : "Via Prosecco  161, TRIESTE",
+               "ref:mds" : "5517",
+               "operator" : "Barbara Casula",
+               "start_date" : "2011-09-01",
+               "ref:vatin" : "IT01197550328",
+               "name" : "Moderna",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5518,
+      "lat" : 45.6472661,
+      "lon" : 13.7797952,
+      "tags" : {
+               "addr" : "Via Alfredo Oriani  2, TRIESTE",
+               "ref:mds" : "5518",
+               "operator" : "Giorgio Du Ban & C. Snc",
+               "start_date" : "2015-03-01",
+               "ref:vatin" : "IT00855070322",
+               "name" : "Picciola Alla Croce Bianca",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5520,
+      "lat" : 45.7718562,
+      "lon" : 13.6371497,
+      "tags" : {
+               "addr" : "Via Sistiana  45, DUINO-AURISINA",
+               "ref:mds" : "5520",
+               "start_date" : "2006-06-01",
+               "ref:vatin" : "IT01095680326",
+               "name" : "Furigo Francesca",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5521,
+      "lat" : 45.645379,
+      "lon" : 13.7726328,
+      "tags" : {
+               "addr" : "Via San Giusto  1, TRIESTE",
+               "ref:mds" : "5521",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00525280327",
+               "name" : "Alla Basilica",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5522,
+      "lat" : 45.6798613,
+      "lon" : 13.7543024,
+      "tags" : {
+               "addr" : "Viale Miramare  177, TRIESTE",
+               "ref:mds" : "5522",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01265930329",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5523,
+      "lat" : 45.6516529,
+      "lon" : 13.7783924,
+      "tags" : {
+               "addr" : "Viale XX Settembre  6, TRIESTE",
+               "ref:mds" : "5523",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00210240321",
+               "name" : "Comunale - Al Cammello",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5525,
+      "lat" : 45.6420454,
+      "lon" : 13.7969152,
+      "tags" : {
+               "addr" : "Via Pasquale Revoltella  41, TRIESTE",
+               "ref:mds" : "5525",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01255650325",
+               "name" : "G.B. Busolini Di Francesca Busolini",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5529,
+      "lat" : 45.6434551,
+      "lon" : 13.7793933,
+      "tags" : {
+               "addr" : "Campo San Giacomo  1, TRIESTE",
+               "ref:mds" : "5529",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00807160320",
+               "name" : "Patuna",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5531,
+      "lat" : 45.6533859,
+      "lon" : 13.7824149,
+      "tags" : {
+               "addr" : "Via Giulia  1, TRIESTE",
+               "ref:mds" : "5531",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00897860326",
+               "name" : "Alla Salute S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5532,
+      "lat" : 45.6458792,
+      "lon" : 13.7803356,
+      "tags" : {
+               "addr" : "Piazza Giuseppe Garibaldi  4, TRIESTE",
+               "ref:mds" : "5532",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT01158460327",
+               "name" : "Alla Redenzione S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5533,
+      "lat" : 45.6412583,
+      "lon" : 13.7652307,
+      "tags" : {
+               "addr" : "Via Carlo Combi  17, TRIESTE",
+               "ref:mds" : "5533",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00918880329",
+               "name" : "Campi Elisi S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5534,
+      "lat" : 45.6537323,
+      "lon" : 13.7799503,
+      "tags" : {
+               "addr" : "Piazza Virgilio Giotti  1, TRIESTE",
+               "ref:mds" : "5534",
+               "start_date" : "2012-05-01",
+               "ref:vatin" : "IT01078460324",
+               "name" : "Alla Minerva",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5535,
+      "lat" : 45.6492948,
+      "lon" : 13.7668564,
+      "tags" : {
+               "addr" : "Via dellOrologio  6, TRIESTE",
+               "ref:mds" : "5535",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00952970325",
+               "name" : "Al Lloyd",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5536,
+      "lat" : 45.6589455,
+      "lon" : 13.790166,
+      "tags" : {
+               "addr" : "Via Fabio Severo  122, TRIESTE",
+               "ref:mds" : "5536",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00958310328",
+               "name" : "All'universita'",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5537,
+      "lat" : 45.62718875,
+      "lon" : 13.8184360798233,
+      "tags" : {
+               "addr" : "Via Alpi Giulie  2, TRIESTE",
+               "ref:mds" : "5537",
+               "start_date" : "2008-01-01",
+               "ref:vatin" : "IT00962700324",
+               "name" : "Altura",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5538,
+      "lat" : 45.6467979,
+      "lon" : 13.7871058,
+      "tags" : {
+               "addr" : "Via Piccardi  16, TRIESTE",
+               "ref:mds" : "5538",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00976660324",
+               "name" : "Alla Fontana Imperiale S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5539,
+      "lat" : 45.6411685,
+      "lon" : 13.8618298,
+      "tags" : {
+               "addr" : "Via Gruden  27, TRIESTE",
+               "ref:mds" : "5539",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT00977910322",
+               "name" : "Al Carso",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5540,
+      "lat" : 45.6450804,
+      "lon" : 13.7603214,
+      "tags" : {
+               "addr" : "Via Belpoggio  4, TRIESTE",
+               "ref:mds" : "5540",
+               "operator" : "Patrizia Ligi",
+               "start_date" : "2011-09-01",
+               "ref:vatin" : "IT01191700325",
+               "name" : "Al Giglio",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5541,
+      "lat" : 45.6914568,
+      "lon" : 13.7891081,
+      "tags" : {
+               "addr" : "Via di Prosecco  3, TRIESTE",
+               "ref:mds" : "5541",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT01023730326",
+               "name" : "Cermelj",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5543,
+      "lat" : 45.7151976,
+      "lon" : 13.7277286,
+      "tags" : {
+               "addr" : "Campo Sacro  1, SGONICO",
+               "ref:mds" : "5543",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01287910325",
+               "name" : "Scolaris S.N.C.",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5544,
+      "lat" : 45.669393,
+      "lon" : 13.7669981,
+      "tags" : {
+               "addr" : "Largo Osoppo  1, TRIESTE",
+               "ref:mds" : "5544",
+               "start_date" : "2009-09-01",
+               "ref:vatin" : "IT01162910325",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5545,
+      "lat" : 45.8173228,
+      "lon" : 13.4440915,
+      "tags" : {
+               "addr" : "Via Aquileia  89, TURRIACO",
+               "ref:mds" : "5545",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01179020316",
+               "name" : "Farmacia Spanghero Dr. Luciano S.N.C.",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5546,
+      "lat" : 45.8081806,
+      "lon" : 13.5214735,
+      "tags" : {
+               "addr" : "Via Aquileia  53, MONFALCONE",
+               "ref:mds" : "5546",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00123030314",
+               "name" : "Comunale N.1 Monfalcone",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5547,
+      "lat" : 45.6771309,
+      "lon" : 13.3856597,
+      "tags" : {
+               "addr" : "Via Marina  1, GRADO",
+               "ref:mds" : "5547",
+               "operator" : "Ledri & C. Snc",
+               "start_date" : "2013-05-01",
+               "ref:vatin" : "IT00466550316",
+               "name" : "Madonna Di Barbana",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5549,
+      "lat" : 45.8048515,
+      "lon" : 13.5481302,
+      "tags" : {
+               "addr" : "Via Romana  93, MONFALCONE",
+               "ref:mds" : "5549",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00531760312",
+               "name" : "Sant'antonio - Dr. Vittori",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5551,
+      "lat" : 45.8079567,
+      "lon" : 13.538128,
+      "tags" : {
+               "addr" : "Via Enrico Toti  52, MONFALCONE",
+               "ref:mds" : "5551",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT00521930313",
+               "name" : "Tacchino Isabella",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5553,
+      "lat" : 45.6777501,
+      "lon" : 13.3923661,
+      "tags" : {
+               "ref:mds" : "5553",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT-",
+               "name" : "Comunale Grado",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5554,
+      "lat" : 45.9109527,
+      "lon" : 13.5902456,
+      "tags" : {
+               "addr" : "Via San Michele  104, GORIZIA",
+               "ref:mds" : "5554",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT-",
+               "name" : "Comunale N.1",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5557,
+      "lat" : 45.8447836,
+      "lon" : 13.5403878,
+      "tags" : {
+               "addr" : "Via Roma  13, DOBERDO DEL LAGO",
+               "ref:mds" : "5557",
+               "operator" : "Paola Antonaz & Annalisa Vescovi",
+               "start_date" : "2011-05-01",
+               "ref:vatin" : "IT01069420311",
+               "name" : "Al Lago",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5560,
+      "lat" : 45.9451801,
+      "lon" : 13.6220588,
+      "tags" : {
+               "addr" : "Corso Giuseppe Verdi  57, GORIZIA",
+               "ref:mds" : "5560",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00440510311",
+               "name" : "Al Giardino - Baldini Tiziana",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5562,
+      "lat" : 45.7966511,
+      "lon" : 13.4647863,
+      "tags" : {
+               "addr" : "Piazza Venezia  15, SAN CANZIAN DISONZO",
+               "ref:mds" : "5562",
+               "start_date" : "2017-09-01",
+               "ref:vatin" : "IT01184330312",
+               "name" : "Farmacia Rampino S.N.C.",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5564,
+      "lat" : 45.9297474,
+      "lon" : 13.6180103,
+      "tags" : {
+               "addr" : "Via Garzarolli  154, GORIZIA",
+               "ref:mds" : "5564",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT-",
+               "name" : "Comunale N.2",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5565,
+      "lat" : 45.9556868,
+      "lon" : 13.6147854,
+      "tags" : {
+               "addr" : "Via Don Bosco  175, GORIZIA",
+               "ref:mds" : "5565",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT01018840312",
+               "name" : "Al Ponte S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5567,
+      "lat" : 45.9397502,
+      "lon" : 13.6151395,
+      "tags" : {
+               "addr" : "Corso Italia  89, GORIZIA",
+               "ref:mds" : "5567",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00488360314",
+               "name" : "Al Corso",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5570,
+      "lat" : 45.8266539,
+      "lon" : 13.5004015,
+      "tags" : {
+               "addr" : "Via Roma  18, RONCHI DEI LEGIONARI",
+               "ref:mds" : "5570",
+               "start_date" : "2008-01-01",
+               "ref:vatin" : "IT01070000318",
+               "name" : "All'angelo S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5571,
+      "lat" : 45.9362343,
+      "lon" : 13.5748559,
+      "tags" : {
+               "addr" : "Via Udine  2, GORIZIA",
+               "ref:mds" : "5571",
+               "operator" : "Sorc Alenka & C. Snc",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT00547980318",
+               "name" : "Alla Madonna Di Montesanto",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5573,
+      "lat" : 45.8056711,
+      "lon" : 13.506647,
+      "tags" : {
+               "addr" : "Via Trieste  13, STARANZANO",
+               "ref:mds" : "5573",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT01045480314",
+               "name" : "San Pietro E Paolo-dr.I Tani Marta Luisa, Zanardi Franco E Maria T.S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5576,
+      "lat" : 45.8910777,
+      "lon" : 13.4425382,
+      "tags" : {
+               "addr" : "Via Latina  77, ROMANS DISONZO",
+               "ref:mds" : "5576",
+               "operator" : "Ruggero Del Torre Sas",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT00485560312",
+               "name" : "Alla Madonna",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5578,
+      "lat" : 45.8423122,
+      "lon" : 13.4915914,
+      "tags" : {
+               "addr" : "Via Redipuglia  77, FOGLIANO REDIPUGLIA",
+               "ref:mds" : "5578",
+               "start_date" : "2008-01-01",
+               "ref:vatin" : "IT01024560318",
+               "name" : "Di Marino Maria Clara S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5579,
+      "lat" : 45.9301331,
+      "lon" : 13.527416,
+      "tags" : {
+               "addr" : "Piazza Montesanto  1, SAN LORENZO ISONTINO",
+               "ref:mds" : "5579",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00121060313",
+               "name" : "Sorc Giorgio",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5581,
+      "lat" : 45.7993153,
+      "lon" : 13.5326414,
+      "tags" : {
+               "addr" : "Via Callisto Cosulich  117, MONFALCONE",
+               "ref:mds" : "5581",
+               "operator" : "Consuelo Quarina",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01183270311",
+               "name" : "Farmacia Storica",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5582,
+      "lat" : 46.0448221,
+      "lon" : 13.4067768,
+      "tags" : {
+               "addr" : "Via Manzano  6, CORMONS",
+               "ref:mds" : "5582",
+               "start_date" : "2011-03-01",
+               "ref:vatin" : "IT01113290314",
+               "name" : "Al Redentore Di Stacul Roberta",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5584,
+      "lat" : 45.9421783,
+      "lon" : 13.6195571,
+      "tags" : {
+               "addr" : "Corso Italia  10, GORIZIA",
+               "ref:mds" : "5584",
+               "operator" : "Carla Tavasani & C.",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01179000318",
+               "name" : "Farmacia All'orso Bianco S.N.C.",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5586,
+      "lat" : 46.4727156,
+      "lon" : 13.022901,
+      "tags" : {
+               "addr" : "Via Roma  6, ARTA TERME",
+               "ref:mds" : "5586",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00052680303",
+               "name" : "Somma Maria Vittoria",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5587,
+      "lat" : 46.409381,
+      "lon" : 12.8780967,
+      "tags" : {
+               "addr" : "Via Nazionale  79, ENEMONZO",
+               "ref:mds" : "5587",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00478300304",
+               "name" : "Marini Maria Luisa",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5588,
+      "lat" : 46.069571,
+      "lon" : 13.232078,
+      "tags" : {
+               "addr" : "Via Divisione Julia  15, GEMONA DEL FRIULI",
+               "ref:mds" : "5588",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT01839990304",
+               "name" : "Cons Manuela",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5590,
+      "lat" : 46.256513,
+      "lon" : 13.0813886,
+      "tags" : {
+               "addr" : "Via Fabris  5, OSOPPO",
+               "ref:mds" : "5590",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT02433120306",
+               "name" : "Antica Farmacia Fabris Di Carlo E Marina Fabris S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5591,
+      "lat" : 46.4821609,
+      "lon" : 12.8658825,
+      "tags" : {
+               "addr" : "Via Caduti Due Maggio  121, OVARO",
+               "ref:mds" : "5591",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00085520302",
+               "name" : "Soravito Giorgio",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5592,
+      "lat" : 46.5303329,
+      "lon" : 13.1164438,
+      "tags" : {
+               "addr" : "PIAZZA BERNARDINO NASCIMBENI  14, PAULARO",
+               "ref:mds" : "5592",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT02768240307",
+               "name" : "Romano",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5593,
+      "lat" : 46.5043725,
+      "lon" : 13.3055756,
+      "tags" : {
+               "addr" : "Via Roma  39, PONTEBBA",
+               "ref:mds" : "5593",
+               "start_date" : "2018-04-01",
+               "ref:vatin" : "IT02916480300",
+               "name" : "Farmacia Dott. Candussi Daniele Sas",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5594,
+      "lat" : 46.3733233,
+      "lon" : 13.3059743,
+      "tags" : {
+               "addr" : "VIA ROMA  1, RESIA",
+               "ref:mds" : "5594",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00498700301",
+               "name" : "Comunale Resia",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5595,
+      "lat" : 46.5053963,
+      "lon" : 13.5762461380337,
+      "tags" : {
+               "addr" : "VIA ROMA  18, TARVISIO",
+               "ref:mds" : "5595",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT02440440309",
+               "name" : "Spaliviero Francesco & C. S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5597,
+      "lat" : 46.2820209,
+      "lon" : 13.075743,
+      "tags" : {
+               "addr" : "PIAZZA UNITA DITALIA  1, TRASAGHIS",
+               "ref:mds" : "5597",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT02546690302",
+               "name" : "Lenardon Marcella",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5598,
+      "lat" : 46.2381932,
+      "lon" : 13.1557705,
+      "tags" : {
+               "addr" : "Via Menis  2, ARTEGNA",
+               "ref:mds" : "5598",
+               "operator" : "Marzia e Marco Furlan",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02638730305",
+               "name" : "Zappetti",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5600,
+      "lat" : 46.373768,
+      "lon" : 13.096513,
+      "tags" : {
+               "addr" : "Via Roma  66/B, AMARO",
+               "ref:mds" : "5600",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT04722250281",
+               "name" : "All'angelo Dr. Francesco Piazza",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5601,
+      "lat" : 46.5861516,
+      "lon" : 12.7762712,
+      "tags" : {
+               "addr" : "Via Roma  1, FORNI AVOLTRI",
+               "ref:mds" : "5601",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00174720300",
+               "name" : "Palci Gianfranco",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5602,
+      "lat" : 46.5329693,
+      "lon" : 13.0420019,
+      "tags" : {
+               "addr" : "Via Roma  15, TREPPO CARNICO",
+               "ref:mds" : "5602",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01248820308",
+               "name" : "Brunetti Patrizia",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5603,
+      "lat" : 46.5135064,
+      "lon" : 12.8670047,
+      "tags" : {
+               "addr" : "Via Statale  5, COMEGLIANS",
+               "ref:mds" : "5603",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT01258980307",
+               "name" : "Alfare' Luciana",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5605,
+      "lat" : 46.2791228,
+      "lon" : 13.1264082,
+      "tags" : {
+               "addr" : "Via Tagliamento  50, GEMONA DEL FRIULI",
+               "ref:mds" : "5605",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT02396320307",
+               "name" : "Alla Madonna De Clauser A.& C.S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5608,
+      "lat" : 46.4069816,
+      "lon" : 13.0141621,
+      "tags" : {
+               "addr" : "PIAZZA GIUSEPPE GARIBALDI  20, TOLMEZZO",
+               "ref:mds" : "5608",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01639860301",
+               "name" : "Tosoni Adriano",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5609,
+      "lat" : 46.3155819,
+      "lon" : 13.1034438,
+      "tags" : {
+               "addr" : "Via Roma  43, BORDANO",
+               "ref:mds" : "5609",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT02663580302",
+               "name" : "Lovrovich",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5610,
+      "lat" : 46.4238601639863,
+      "lon" : 12.9177441781108,
+      "tags" : {
+               "ref:mds" : "5610",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT00678680307",
+               "name" : "Eredi Muzzolini",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5611,
+      "lat" : 46.5254998,
+      "lon" : 12.9221041,
+      "tags" : {
+               "addr" : "VIA EDELWEISS  7, RAVASCLETTO",
+               "ref:mds" : "5611",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT00821460300",
+               "name" : "Velardita",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5612,
+      "lat" : 46.5525313,
+      "lon" : 12.8521943,
+      "tags" : {
+               "addr" : "Piazza Durigon  23, RIGOLATO",
+               "ref:mds" : "5612",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02671670301",
+               "name" : "Secchiero Samuele",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5614,
+      "lat" : 46.4036207,
+      "lon" : 12.8233292,
+      "tags" : {
+               "addr" : "VIA ROMA  22/A, SOCCHIEVE",
+               "ref:mds" : "5614",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01861070306",
+               "name" : "Danelon Giuditta",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5615,
+      "lat" : 46.334478,
+      "lon" : 13.1399742,
+      "tags" : {
+               "addr" : "VIA MISTRUZZI  18, VENZONE",
+               "ref:mds" : "5615",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01951170305",
+               "name" : "Marcon Francesca",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5616,
+      "lat" : 46.423923,
+      "lon" : 12.5784363,
+      "tags" : {
+               "ref:mds" : "5616",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02709210302",
+               "name" : "Varmost S.A.S",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5617,
+      "lat" : 46.4082647,
+      "lon" : 13.3104965,
+      "tags" : {
+               "addr" : "Piazza Pieroni  2, CHIUSAFORTE",
+               "ref:mds" : "5617",
+               "start_date" : "2013-02-01",
+               "ref:vatin" : "IT10534370019",
+               "name" : "Camagna Serena",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5618,
+      "lat" : 46.4162645,
+      "lon" : 12.7943259,
+      "tags" : {
+               "addr" : "Piazza Zona Libera 1944  8, AMPEZZO",
+               "ref:mds" : "5618",
+               "start_date" : "2017-11-01",
+               "ref:vatin" : "IT02538860301",
+               "name" : "Ampezzo Della Dr.Ssa Francesca Siega",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5619,
+      "lat" : 46.5281992,
+      "lon" : 13.0153152,
+      "tags" : {
+               "addr" : "Via Roma  46, PALUZZA",
+               "ref:mds" : "5619",
+               "operator" : "Alberto Morandini & C. Sas",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT02495100303",
+               "name" : "S. Nicolo'",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5620,
+      "lat" : 46.5046864,
+      "lon" : 13.4188731,
+      "tags" : {
+               "addr" : "Via Pontebbana  14, MALBORGHETTO VALBRUNA",
+               "ref:mds" : "5620",
+               "start_date" : "2015-10-01",
+               "ref:vatin" : "IT02407490305",
+               "name" : "Guarasci Roberta",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5621,
+      "lat" : 46.0138194,
+      "lon" : 13.3312794,
+      "tags" : {
+               "addr" : "Via Divisione Julia  16, BUTTRIO",
+               "ref:mds" : "5621",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT02326190309",
+               "name" : "Sabbadini Franco E Monica S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5622,
+      "lat" : 46.089095,
+      "lon" : 13.4339277,
+      "tags" : {
+               "addr" : "Viale Trieste  3, CIVIDALE DEL FRIULI",
+               "ref:mds" : "5622",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01831240302",
+               "name" : "Fontana S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5623,
+      "lat" : 46.0965551,
+      "lon" : 13.0188222,
+      "tags" : {
+               "addr" : "Largo Municipio  18, COSEANO",
+               "ref:mds" : "5623",
+               "start_date" : "2011-03-01",
+               "ref:vatin" : "IT02620910303",
+               "name" : "Di Fant Dr Ilca",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5624,
+      "lat" : 46.1011696,
+      "lon" : 13.2145705,
+      "tags" : {
+               "addr" : "Piazza Indipendenza  2, TAVAGNACCO",
+               "ref:mds" : "5624",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00088540307",
+               "name" : "Comuzzi Franco",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5625,
+      "lat" : 46.0975438,
+      "lon" : 13.1354159,
+      "tags" : {
+               "addr" : "Via Lungolavia  7/8, MARTIGNACCO",
+               "ref:mds" : "5625",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02776050300",
+               "name" : "Colussi Erminia E Anna S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5626,
+      "lat" : 46.1168163,
+      "lon" : 13.1937961,
+      "tags" : {
+               "addr" : "VIA UDINE  3, PAGNACCO",
+               "ref:mds" : "5626",
+               "operator" : "Pietro Migliorini Baldesi",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02242040513",
+               "name" : "Migliorini Baldesi S.A.S.",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5628,
+      "lat" : 46.1182388,
+      "lon" : 13.2992147,
+      "tags" : {
+               "addr" : "PIAZZA LIBERTA  3, POVOLETTO",
+               "ref:mds" : "5628",
+               "operator" : "Boschetti Angelo e Donatella Snc",
+               "start_date" : "2007-09-01",
+               "ref:vatin" : "IT02478530302",
+               "name" : "Boschetti",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5630,
+      "lat" : 45.9298594,
+      "lon" : 13.1158832,
+      "tags" : {
+               "addr" : "VIA TOMADINI  10, TALMASSONS",
+               "ref:mds" : "5630",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT02565200306",
+               "name" : "Palma",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5632,
+      "lat" : 46.0683521,
+      "lon" : 13.2435247,
+      "tags" : {
+               "addr" : "Via Pracchiuso  46, UDINE",
+               "ref:mds" : "5632",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT00514810308",
+               "name" : "Ariis Luigi E Aris Mario S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5633,
+      "lat" : 46.0739824,
+      "lon" : 13.2087275,
+      "tags" : {
+               "addr" : "Via Lombardia  198/a, UDINE",
+               "ref:mds" : "5633",
+               "start_date" : "2016-05-01",
+               "ref:vatin" : "IT02343340309",
+               "name" : "Alla Fenice Risorta Di Asquini Alessandra & C. S.A.S",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5634,
+      "lat" : 46.0630856,
+      "lon" : 13.2358867,
+      "tags" : {
+               "addr" : "Piazza della Liberta  9, UDINE",
+               "ref:mds" : "5634",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00425180304",
+               "name" : "Rossi Beltrame Nicoletta",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5635,
+      "lat" : 46.0593522,
+      "lon" : 13.23346,
+      "tags" : {
+               "addr" : "Piazza Giuseppe Garibaldi  10, UDINE",
+               "ref:mds" : "5635",
+               "operator" : "Giansandro Colutta & C. Snc",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT02442000309",
+               "name" : "Colutta Antonio",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5636,
+      "lat" : 46.0665397,
+      "lon" : 13.2317132,
+      "tags" : {
+               "addr" : "Via Giuseppe Mazzini  13, UDINE",
+               "ref:mds" : "5636",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02678760303",
+               "name" : "Colutta S.N.C Dott. Gianpaolo & C.",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5637,
+      "lat" : 46.0616004,
+      "lon" : 13.2321048,
+      "tags" : {
+               "addr" : "Via Poscolle  10, UDINE",
+               "ref:mds" : "5637",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00210720306",
+               "name" : "Manganotti Enrico",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5638,
+      "lat" : 46.0621122,
+      "lon" : 13.234217,
+      "tags" : {
+               "addr" : "Via Cavour  15, UDINE",
+               "ref:mds" : "5638",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00160820304",
+               "name" : "Sartogo Giorgio",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5639,
+      "lat" : 46.0894258,
+      "lon" : 13.2326799,
+      "tags" : {
+               "addr" : "Viale Tricesimo  103, UDINE",
+               "ref:mds" : "5639",
+               "start_date" : "2017-09-01",
+               "ref:vatin" : "IT02795120308",
+               "name" : "Farmacia Turco",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5640,
+      "lat" : 45.8849814,
+      "lon" : 12.9931135,
+      "tags" : {
+               "addr" : "VIA RIVIGNANO  9, VARMO",
+               "ref:mds" : "5640",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT00463340307",
+               "name" : "Mummolo Daniele",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5641,
+      "lat" : 46.0196679,
+      "lon" : 13.160914,
+      "tags" : {
+               "addr" : "Via Roma  30, CAMPOFORMIDO",
+               "ref:mds" : "5641",
+               "start_date" : "2007-09-01",
+               "ref:vatin" : "IT02435730300",
+               "name" : "Patini S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5643,
+      "lat" : 46.0720821,
+      "lon" : 13.2562734,
+      "tags" : {
+               "addr" : "Via Cividale  294, UDINE",
+               "ref:mds" : "5643",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00023590300",
+               "name" : "Pelizzo Luigi",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5644,
+      "lat" : 46.0770222,
+      "lon" : 13.2437834,
+      "tags" : {
+               "addr" : "Via Monte Grappa  79, UDINE",
+               "ref:mds" : "5644",
+               "start_date" : "2009-06-01",
+               "ref:vatin" : "IT02563300306",
+               "name" : "Degrassi - Adl Di Daminano De Grassi E Antonietta Biasioli & C. S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5645,
+      "lat" : 46.1623707,
+      "lon" : 13.1356784,
+      "tags" : {
+               "addr" : "Via Ippolito Nievo  55, COLLOREDO DI MONTE ALBANO",
+               "ref:mds" : "5645",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02296700301",
+               "name" : "Zanolini Antonio",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5646,
+      "lat" : 46.0914447,
+      "lon" : 13.0683911,
+      "tags" : {
+               "addr" : "VIA NUOVA  43, SAN VITO DI FAGAGNA",
+               "ref:mds" : "5646",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT02305360303",
+               "name" : "Eredi Dr. Rossi Di Barbara Rossi & C.",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5647,
+      "lat" : 46.1195213,
+      "lon" : 13.1232893,
+      "tags" : {
+               "addr" : "VIA CENTA  13, MORUZZO",
+               "ref:mds" : "5647",
+               "start_date" : "2007-09-01",
+               "ref:vatin" : "IT02441790306",
+               "name" : "Lussin Pietro & Roberta S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5648,
+      "lat" : 46.2074675,
+      "lon" : 13.1253314,
+      "tags" : {
+               "addr" : "Via Santo Stefano  68, BUIA",
+               "ref:mds" : "5648",
+               "start_date" : "2015-05-01",
+               "ref:vatin" : "IT00568670301",
+               "name" : "Rizzi Carlo",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5651,
+      "lat" : 46.1126749,
+      "lon" : 13.0136511,
+      "tags" : {
+               "addr" : "Via Nazionale  32, RIVE DARCANO",
+               "ref:mds" : "5651",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT02467520306",
+               "name" : "Micoli Manuela",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5652,
+      "lat" : 45.9760685,
+      "lon" : 13.2612131,
+      "tags" : {
+               "addr" : "VIA DELLA STAZIONE  21/A, PAVIA DI UDINE",
+               "ref:mds" : "5652",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT01269560304",
+               "name" : "Caruso Caccia S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5653,
+      "lat" : 46.0136698,
+      "lon" : 12.9761261,
+      "tags" : {
+               "addr" : "Piazza Roma  36, SEDEGLIANO",
+               "ref:mds" : "5653",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01273030302",
+               "name" : "Comini Francesca",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5654,
+      "lat" : 46.0929477,
+      "lon" : 13.4306393,
+      "tags" : {
+               "addr" : "Largo Boiani  11, CIVIDALE DEL FRIULI",
+               "ref:mds" : "5654",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01335880306",
+               "name" : "Minisini Enrico",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5655,
+      "lat" : 46.1521144,
+      "lon" : 13.3474919,
+      "tags" : {
+               "addr" : "Via Divisione Julia  27, FAEDIS",
+               "ref:mds" : "5655",
+               "start_date" : "2018-07-01",
+               "ref:vatin" : "IT02438710309",
+               "name" : "Farmacia Pagnucco Dott.Ssa Flavia",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5656,
+      "lat" : 46.1733092,
+      "lon" : 13.4845059,
+      "tags" : {
+               "addr" : "VIA ROMA  81, PULFERO",
+               "ref:mds" : "5656",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00490090305",
+               "name" : "Szklarz Marina",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5657,
+      "lat" : 46.2653931,
+      "lon" : 13.2597973,
+      "tags" : {
+               "ref:mds" : "5657",
+               "start_date" : "2010-10-01",
+               "ref:vatin" : "IT02297840304",
+               "name" : "Coradazzi Corrado",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5660,
+      "lat" : 46.108499,
+      "lon" : 13.2355521,
+      "tags" : {
+               "addr" : "Via Molin Nuovo  19, TAVAGNACCO",
+               "ref:mds" : "5660",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02008290302",
+               "name" : "Satti Sandro",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5661,
+      "lat" : 46.0776217,
+      "lon" : 13.2728166,
+      "tags" : {
+               "addr" : "Viale Forze Armate  4/10, UDINE",
+               "ref:mds" : "5661",
+               "start_date" : "2017-10-01",
+               "ref:vatin" : "IT02895060305",
+               "name" : "Farmacia Aurora",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5662,
+      "lat" : 46.0322059,
+      "lon" : 13.3034327,
+      "tags" : {
+               "addr" : "VIA GIOVANNI MARINELLI  2, PRADAMANO",
+               "ref:mds" : "5662",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01503290304",
+               "name" : "Favero S.A.S Di Michele Favero E C.",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5663,
+      "lat" : 45.9586558,
+      "lon" : 12.9946234,
+      "tags" : {
+               "addr" : "Via Ostermann  10, CODROIPO",
+               "ref:mds" : "5663",
+               "start_date" : "2007-12-01",
+               "ref:vatin" : "IT02493480301",
+               "name" : "Toso Lorenzo",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5664,
+      "lat" : 46.0564911,
+      "lon" : 13.2202357,
+      "tags" : {
+               "addr" : "Viale Venezia  178, UDINE",
+               "ref:mds" : "5664",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01495460303",
+               "name" : "Del Torre Riccardo",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5666,
+      "lat" : 46.0916239,
+      "lon" : 13.3805564,
+      "tags" : {
+               "addr" : "Via Roma  25, MOIMACCO",
+               "ref:mds" : "5666",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01503320309",
+               "name" : "Terpin Maria Franca",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5667,
+      "lat" : 46.0592529,
+      "lon" : 12.9845565,
+      "tags" : {
+               "addr" : "Via Indipendenza  21, FLAIBANO",
+               "ref:mds" : "5667",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT01517480305",
+               "name" : "Pressacco Rita",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5668,
+      "lat" : 46.0745787,
+      "lon" : 13.5068636,
+      "tags" : {
+               "ref:mds" : "5668",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01528480302",
+               "name" : "Bernardis Rita",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5669,
+      "lat" : 46.0595782,
+      "lon" : 13.3941205,
+      "tags" : {
+               "addr" : "Via Fiore dei Liberi  11, PREMARIACCO",
+               "ref:mds" : "5669",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01590190300",
+               "name" : "Cargnelli Augusto",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5672,
+      "lat" : 45.9651477,
+      "lon" : 12.9681677,
+      "tags" : {
+               "ref:mds" : "5672",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02070670308",
+               "name" : "Bp S.N.C Di Alessandra Forgiarini E Roberto Fresco",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5673,
+      "lat" : 45.9093439,
+      "lon" : 13.1845903,
+      "tags" : {
+               "addr" : "Viale Europa  17, CASTIONS DI STRADA",
+               "ref:mds" : "5673",
+               "start_date" : "2018-03-01",
+               "ref:vatin" : "IT02870850308",
+               "name" : "Farmacia Alla Salute Della Dott.Ssa Paola Foramitti S.A.S.",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5677,
+      "lat" : 46.1998895,
+      "lon" : 13.26501,
+      "tags" : {
+               "addr" : "Via Roma  8, NIMIS",
+               "ref:mds" : "5677",
+               "start_date" : "2017-12-01",
+               "ref:vatin" : "IT02900470309",
+               "name" : "Farmacia Missera S.N.C. Di Franca Missera",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5678,
+      "lat" : 45.9554204,
+      "lon" : 13.1422867,
+      "tags" : {
+               "addr" : "CALLE SAN GIACOMO  3, LESTIZZA",
+               "ref:mds" : "5678",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01709000309",
+               "name" : "Luciani Giulio",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5679,
+      "lat" : 46.064299,
+      "lon" : 13.2340467,
+      "tags" : {
+               "addr" : "Via Mercatovecchio  22, UDINE",
+               "ref:mds" : "5679",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT01707610307",
+               "name" : "Eredi Cadamuro",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5680,
+      "lat" : 46.1733968,
+      "lon" : 13.186934,
+      "tags" : {
+               "addr" : "Piazza Noacco  16/11, CASSACCO",
+               "ref:mds" : "5680",
+               "start_date" : "2018-05-01",
+               "ref:vatin" : "IT02916490309",
+               "name" : "Farmacia Cassacco Dott. Zappetti Elvy Sas",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5681,
+      "lat" : 45.9271321,
+      "lon" : 12.9460799,
+      "tags" : {
+               "addr" : "Via Codroipo  2, CAMINO AL TAGLIAMENTO",
+               "ref:mds" : "5681",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT00820960300",
+               "name" : "Peano Elena",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5682,
+      "lat" : 46.0458603,
+      "lon" : 13.2205574,
+      "tags" : {
+               "addr" : "Via Pozzuolo  155, UDINE",
+               "ref:mds" : "5682",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01750560300",
+               "name" : "Aiello Anna",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5685,
+      "lat" : 46.178957,
+      "lon" : 12.978284,
+      "tags" : {
+               "addr" : "Via Roma  14, RAGOGNA",
+               "ref:mds" : "5685",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01838020301",
+               "name" : "Cerutti Elena",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5686,
+      "lat" : 45.9745553,
+      "lon" : 13.3209131,
+      "tags" : {
+               "addr" : "Via Villa  2, PAVIA DI UDINE",
+               "ref:mds" : "5686",
+               "operator" : "Pancino Claudio Luigi",
+               "start_date" : "2016-12-01",
+               "ref:vatin" : "IT02495620300",
+               "name" : "Pancino",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5687,
+      "lat" : 46.0501611,
+      "lon" : 13.0433774,
+      "tags" : {
+               "addr" : "VIA TRENTO E TRIESTE  23, MERETO DI TOMBA",
+               "ref:mds" : "5687",
+               "operator" : "Mario Leoncini e Donatella Libe'",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02718920305",
+               "name" : "All'immacolata S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5688,
+      "lat" : 45.9882945,
+      "lon" : 13.4444747,
+      "tags" : {
+               "addr" : "Via Aquileia  70, CORNO DI ROSAZZO",
+               "ref:mds" : "5688",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01915900300",
+               "name" : "Alfare' Giancarlo",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5689,
+      "lat" : 46.069361,
+      "lon" : 13.234005,
+      "tags" : {
+               "addr" : "Via Gemona  78, UDINE",
+               "ref:mds" : "5689",
+               "operator" : "Alessandro Bertasi & C.",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT01916780305",
+               "name" : "Zambotto S.A.S",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5691,
+      "lat" : 46.1274402,
+      "lon" : 13.4852287,
+      "tags" : {
+               "addr" : "Via Alpe Adria  77, SAN PIETRO AL NATISONE",
+               "ref:mds" : "5691",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01969400306",
+               "name" : "Eredi Strazzolini",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5692,
+      "lat" : 46.0850185,
+      "lon" : 13.3219847,
+      "tags" : {
+               "addr" : "Piazza Missio  5, REMANZACCO",
+               "ref:mds" : "5692",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT01970060305",
+               "name" : "Roussel Mario",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5694,
+      "lat" : 46.1848004,
+      "lon" : 13.0659335,
+      "tags" : {
+               "addr" : "Via Roma  37, MAJANO",
+               "ref:mds" : "5694",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT02046080301",
+               "name" : "Trojani",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5695,
+      "lat" : 46.2238443,
+      "lon" : 12.9728393,
+      "tags" : {
+               "addr" : "Via Grap  22, FORGARIA NEL FRIULI",
+               "ref:mds" : "5695",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT02062710302",
+               "name" : "Giannelli Maria Giuseppina",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5696,
+      "lat" : 46.0603008,
+      "lon" : 13.2506707,
+      "tags" : {
+               "addr" : "Via Buttrio  10, UDINE",
+               "ref:mds" : "5696",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02070670308",
+               "name" : "Bp Di Alessandra Forgiarini E Roberto Fresco",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5697,
+      "lat" : 46.0581441,
+      "lon" : 13.2316148,
+      "tags" : {
+               "addr" : "Via Grazzano  21, UDINE",
+               "ref:mds" : "5697",
+               "start_date" : "2009-06-01",
+               "ref:vatin" : "IT02563300306",
+               "name" : "Fattor - Adl Di Damiano De Grassi E Antonietta Biasioli &c. S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5698,
+      "lat" : 46.0583633,
+      "lon" : 13.2442277,
+      "tags" : {
+               "addr" : "Piazzetta del Pozzo  1, UDINE",
+               "ref:mds" : "5698",
+               "operator" : "Federica e Paolo Nobile Snc",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT02406150306",
+               "name" : "Nobile",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5699,
+      "lat" : 46.1464937,
+      "lon" : 13.0064366,
+      "tags" : {
+               "ref:mds" : "5699",
+               "operator" : "Giulia &  C. Snc",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT02550070300",
+               "name" : "Peressoni",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5700,
+      "lat" : 46.1164942,
+      "lon" : 13.0834833,
+      "tags" : {
+               "addr" : "Via Umberto I  48, FAGAGNA",
+               "ref:mds" : "5700",
+               "operator" : "Vidal & C. Snc",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT02118880307",
+               "name" : "All'angelo Raffaele",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5701,
+      "lat" : 46.0531275,
+      "lon" : 13.2469486,
+      "tags" : {
+               "addr" : "Viale Palmanova  93, UDINE",
+               "ref:mds" : "5701",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT02165100302",
+               "name" : "Pasini Giuliana",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5702,
+      "lat" : 45.9425424,
+      "lon" : 13.0581863,
+      "tags" : {
+               "addr" : "Via Virco  14, BERTIOLO",
+               "ref:mds" : "5702",
+               "start_date" : "2014-10-01",
+               "ref:vatin" : "IT02170200303",
+               "name" : "Tilatti Annamaria",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5703,
+      "lat" : 45.9901257,
+      "lon" : 13.3846956,
+      "tags" : {
+               "addr" : "Via Foschiani  21, MANZANO",
+               "ref:mds" : "5703",
+               "start_date" : "2010-10-01",
+               "ref:vatin" : "IT02187300302",
+               "name" : "Brusutti Stefano E Simonetta S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5706,
+      "lat" : 46.2095913,
+      "lon" : 13.1258685,
+      "tags" : {
+               "addr" : "VIA SANTO STEFANO  30, BUIA",
+               "ref:mds" : "5706",
+               "start_date" : "2015-05-01",
+               "ref:vatin" : "IT02194180308",
+               "name" : "Da Re Alessandro",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5707,
+      "lat" : 46.0636067,
+      "lon" : 13.2341862,
+      "tags" : {
+               "addr" : "Via del Monte  6, UDINE",
+               "ref:mds" : "5707",
+               "operator" : "Raffaella Gregoris & C. Sas",
+               "start_date" : "2015-02-01",
+               "ref:vatin" : "IT02213210301",
+               "name" : "Del Monte",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5709,
+      "lat" : 46.0288248,
+      "lon" : 13.2562895,
+      "tags" : {
+               "ref:mds" : "5709",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT02237140302",
+               "name" : "Montoro Federico",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5711,
+      "lat" : 46.0847118,
+      "lon" : 12.9396747,
+      "tags" : {
+               "addr" : "Via Udine  10, DIGNANO",
+               "ref:mds" : "5711",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT02260290305",
+               "name" : "Durisotto Enrico",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5712,
+      "lat" : 46.2150613,
+      "lon" : 13.2215139,
+      "tags" : {
+               "addr" : "Via Roma  12, TARCENTO",
+               "ref:mds" : "5712",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT02263880300",
+               "name" : "Mugani S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5713,
+      "lat" : 46.0914759,
+      "lon" : 13.2681929,
+      "tags" : {
+               "addr" : "Via Bariglaria  230, UDINE",
+               "ref:mds" : "5713",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02267120307",
+               "name" : "Hardardottir S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5715,
+      "lat" : 45.8224647,
+      "lon" : 13.337326,
+      "tags" : {
+               "addr" : "Via Roma  52, CERVIGNANO DEL FRIULI",
+               "ref:mds" : "5715",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02696340302",
+               "name" : "Sant'antonio Di Vidali Dr.  Dario & C. S.A.S",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5716,
+      "lat" : 45.8213494,
+      "lon" : 13.3328946,
+      "tags" : {
+               "addr" : "Piazza Unita dItalia  27, CERVIGNANO DEL FRIULI",
+               "ref:mds" : "5716",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT02467950305",
+               "name" : "Lovovrich Gemma",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5718,
+      "lat" : 45.9062138,
+      "lon" : 13.3122318,
+      "tags" : {
+               "addr" : "BORGO CIVIDALE  20, PALMANOVA",
+               "ref:mds" : "5718",
+               "operator" : "Facini Luigi e Stefano",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02695020301",
+               "name" : "Facini S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5719,
+      "lat" : 45.9052598,
+      "lon" : 13.3088829,
+      "tags" : {
+               "addr" : "PIAZZA GRANDE  3, PALMANOVA",
+               "ref:mds" : "5719",
+               "operator" : "Morandini Alberto  & C. Sas",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT02495100303",
+               "name" : "S. Nicolo'",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5720,
+      "lat" : 45.9330408,
+      "lon" : 13.2896767,
+      "tags" : {
+               "addr" : "VIA ROMA  17, SANTA MARIA LA LONGA",
+               "ref:mds" : "5720",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00245120308",
+               "name" : "Beltrame Gabriele",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5723,
+      "lat" : 45.80259195,
+      "lon" : 13.1880222340673,
+      "tags" : {
+               "addr" : "Piazza S. Rocco  11, CARLINO",
+               "ref:mds" : "5723",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02802790309",
+               "name" : "Charalambopoulos",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5724,
+      "lat" : 45.8601838,
+      "lon" : 13.2155515,
+      "tags" : {
+               "addr" : "Via Udine  20, PORPETTO",
+               "ref:mds" : "5724",
+               "start_date" : "2018-03-01",
+               "ref:vatin" : "IT02573770308",
+               "name" : "Farmacia Migotti S. & C. S.A.S.",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5725,
+      "lat" : 45.842051,
+      "lon" : 13.3980188,
+      "tags" : {
+               "addr" : "Via Roma  15/a, RUDA",
+               "ref:mds" : "5725",
+               "start_date" : "2015-01-01",
+               "ref:vatin" : "IT02626220301",
+               "name" : "Moneghini S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5729,
+      "lat" : 45.8716784,
+      "lon" : 13.3652611,
+      "tags" : {
+               "addr" : "Via Ventiquattro Maggio  1, AIELLO DEL FRIULI",
+               "ref:mds" : "5729",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01359970306",
+               "name" : "Tresca Fabrizio",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5730,
+      "lat" : 45.6900505,
+      "lon" : 13.1444715,
+      "tags" : {
+               "addr" : "Via Tolmezzo  3, LIGNANO SABBIADORO",
+               "ref:mds" : "5730",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT02233880307",
+               "name" : "De Roia Paolo E Francesco S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5732,
+      "lat" : 45.8234724,
+      "lon" : 13.2747486,
+      "tags" : {
+               "addr" : "PIAZZA DEL POPOLO  2, TORVISCOSA",
+               "ref:mds" : "5732",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01437930306",
+               "name" : "Grigolini Renata",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5733,
+      "lat" : 45.8207437,
+      "lon" : 13.3946899,
+      "tags" : {
+               "addr" : "Via Gorizia  44, VILLA VICENTINA",
+               "ref:mds" : "5733",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT02772410300",
+               "name" : "Delbianco Italo",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5734,
+      "lat" : 45.8875379,
+      "lon" : 13.3013204,
+      "tags" : {
+               "addr" : "Via Vittorio Veneto  4, BAGNARIA ARSA",
+               "ref:mds" : "5734",
+               "start_date" : "2015-05-01",
+               "ref:vatin" : "IT00475120317",
+               "name" : "Gergolet",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5735,
+      "lat" : 45.9463974,
+      "lon" : 13.3400131,
+      "tags" : {
+               "addr" : "Piazza Municipio  16, TRIVIGNANO UDINESE",
+               "ref:mds" : "5735",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT03100170988",
+               "name" : "Perazzi",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5736,
+      "lat" : 45.8955628,
+      "lon" : 13.3704672,
+      "tags" : {
+               "addr" : "Via Roma  52, SAN VITO AL TORRE",
+               "ref:mds" : "5736",
+               "start_date" : "2018-05-01",
+               "ref:vatin" : "IT02001410675",
+               "name" : "Farmacia San Vito Del Dott. Vincenzo Gislao",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5737,
+      "lat" : 45.8921694,
+      "lon" : 13.3465868,
+      "tags" : {
+               "addr" : "VIA MONTELLO  35, VISCO",
+               "ref:mds" : "5737",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01523620308",
+               "name" : "Flebus Maria Grazia",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5738,
+      "lat" : 45.8173997,
+      "lon" : 13.1274286,
+      "tags" : {
+               "addr" : "Via Roma  28, MUZZANA DEL TURGNANO",
+               "ref:mds" : "5738",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01501450306",
+               "name" : "Romano Luciano",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5739,
+      "lat" : 45.9035245,
+      "lon" : 13.3099186,
+      "tags" : {
+               "addr" : "Borgo Aquileia  22, PALMANOVA",
+               "ref:mds" : "5739",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01665700306",
+               "name" : "Lipomani Roberto & C. S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5740,
+      "lat" : 45.7763688,
+      "lon" : 12.99748,
+      "tags" : {
+               "addr" : "Piazza Caduti della Julia  27, LATISANA",
+               "ref:mds" : "5740",
+               "operator" : "P. Alessi Snc",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT02282980305",
+               "name" : "Al Duomo Dott. N. Romano E",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5741,
+      "lat" : 45.759757,
+      "lon" : 13.0296158,
+      "tags" : {
+               "addr" : "VIA LIGNANO SABBIADORO  82, LATISANA",
+               "ref:mds" : "5741",
+               "start_date" : "2008-01-01",
+               "ref:vatin" : "IT03807940279",
+               "name" : "Mario Antonella",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5742,
+      "lat" : 45.7895193,
+      "lon" : 13.0786842877564,
+      "tags" : {
+               "addr" : "Piazza Roma  1, PRECENICCO",
+               "ref:mds" : "5742",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT01808290306",
+               "name" : "Caccia Stefano",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5743,
+      "lat" : 45.8962949,
+      "lon" : 13.2371208,
+      "tags" : {
+               "addr" : "Via Edmondo De Amicis  64, GONARS",
+               "ref:mds" : "5743",
+               "start_date" : "2017-06-01",
+               "ref:vatin" : "IT01875870303",
+               "name" : "Farmacia Dott. Beatrice Tancredi Sarpi Collina",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5744,
+      "lat" : 45.8332844,
+      "lon" : 13.0989888,
+      "tags" : {
+               "addr" : "VIA BASSI  2, POCENIA",
+               "ref:mds" : "5744",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01913950307",
+               "name" : "Pez Oddone",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5745,
+      "lat" : 45.9262445,
+      "lon" : 13.4032528,
+      "tags" : {
+               "addr" : "Via Roma  50, CHIOPRIS-VISCONE",
+               "ref:mds" : "5745",
+               "start_date" : "2016-02-01",
+               "ref:vatin" : "IT02662650304",
+               "name" : "Da Ros Franco",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5746,
+      "lat" : 45.9303902,
+      "lon" : 13.2496521,
+      "tags" : {
+               "addr" : "Via Palmanova  5/A, BICINICCO",
+               "ref:mds" : "5746",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02792050300",
+               "name" : "Qualizza Lucia S.A.S",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5747,
+      "lat" : 45.8035094,
+      "lon" : 13.0732339,
+      "tags" : {
+               "addr" : "Via Roma  59/D, PALAZZOLO DELLO STELLA",
+               "ref:mds" : "5747",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02794820304",
+               "name" : "Perissinotti Di Giovanni Persinotti & C S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5748,
+      "lat" : 45.831005,
+      "lon" : 13.212245,
+      "tags" : {
+               "addr" : "Piazza 2 Maggio 1945  3, SAN GIORGIO DI NOGARO",
+               "ref:mds" : "5748",
+               "operator" : "Giovanni e Benedetta Baiti Snc",
+               "start_date" : "2007-09-01",
+               "ref:vatin" : "IT02455070306",
+               "name" : "Toldi",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5749,
+      "lat" : 45.7988616,
+      "lon" : 13.3511263,
+      "tags" : {
+               "addr" : "Via 2 Giugno  4, TERZO DAQUILEIA",
+               "ref:mds" : "5749",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02783630300",
+               "name" : "Menon Feresin S.N.C Di Lucia Grazia Menon E Isabella Feresin",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5756,
+      "lat" : 45.9181076,
+      "lon" : 12.8677141,
+      "tags" : {
+               "addr" : "Via del Progresso  1/bis, SAN VITO AL TAGLIAMENTO",
+               "ref:mds" : "5756",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00242130938",
+               "name" : "Comunale S.Vito Tagliamento",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5757,
+      "lat" : 45.9969858,
+      "lon" : 12.8605529,
+      "tags" : {
+               "addr" : "via Valvason Corbello  8, VALVASONE",
+               "ref:mds" : "5757",
+               "start_date" : "2017-02-01",
+               "ref:vatin" : "IT01240740934",
+               "name" : "All'annunziata Dr. Bono Sandra",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5758,
+      "lat" : 45.9150151,
+      "lon" : 12.855485,
+      "tags" : {
+               "addr" : "Piazza del Popolo  17, SAN VITO AL TAGLIAMENTO",
+               "ref:mds" : "5758",
+               "operator" : "Cesare Mainardis e C. Snc",
+               "start_date" : "2015-02-01",
+               "ref:vatin" : "IT01507940938",
+               "name" : "Farmacia Mainardis",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5759,
+      "lat" : 45.8444058,
+      "lon" : 12.8124739,
+      "tags" : {
+               "addr" : "Via Friuli  19/D, SESTO AL REGHENA",
+               "ref:mds" : "5759",
+               "operator" : "Stival Giancarlo",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01708690936",
+               "name" : "Alla Salute",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5761,
+      "lat" : 45.8471611,
+      "lon" : 12.7091295,
+      "tags" : {
+               "addr" : "Via Santa Caterina  28, CHIONS",
+               "ref:mds" : "5761",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT01536060930",
+               "name" : "Collovini Giulio",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5763,
+      "lat" : 45.9152191,
+      "lon" : 12.8562363,
+      "tags" : {
+               "addr" : "Piazza del Popolo  50, SAN VITO AL TAGLIAMENTO",
+               "ref:mds" : "5763",
+               "start_date" : "2015-02-01",
+               "ref:vatin" : "IT01266680931",
+               "name" : "Beggiato Di Cividini Eleonora",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5764,
+      "lat" : 46.1113138,
+      "lon" : 12.8997792,
+      "tags" : {
+               "addr" : "Corso Roma  22, SPILIMBERGO",
+               "ref:mds" : "5764",
+               "operator" : "Giovanni e Alissa Quagliarello",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01768930933",
+               "name" : "Della Torre S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5765,
+      "lat" : 46.1832503,
+      "lon" : 12.9548011,
+      "tags" : {
+               "addr" : "Via XX Settembre  49, PINZANO AL TAGLIAMENTO",
+               "ref:mds" : "5765",
+               "start_date" : "2015-02-01",
+               "ref:vatin" : "IT01187590938",
+               "name" : "Ales Massimo",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5766,
+      "lat" : 46.186093,
+      "lon" : 12.7526812,
+      "tags" : {
+               "addr" : "Via Roma  12, FANNA",
+               "ref:mds" : "5766",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01049300930",
+               "name" : "Albini Ettore",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5767,
+      "lat" : 46.2169341,
+      "lon" : 12.7842592,
+      "tags" : {
+               "addr" : "Via Principale  23, MEDUNO",
+               "ref:mds" : "5767",
+               "start_date" : "2017-02-01",
+               "ref:vatin" : "IT00109320937",
+               "name" : "Dalle Fratte Francesco",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5770,
+      "lat" : 46.1710519,
+      "lon" : 12.7094485,
+      "tags" : {
+               "addr" : "Via Fabio di Maniago  21, MANIAGO",
+               "ref:mds" : "5770",
+               "operator" : "Francesca Fiori",
+               "start_date" : "2012-01-01",
+               "ref:vatin" : "IT01699770937",
+               "name" : "Tre Effe & C. S.A.S",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5772,
+      "lat" : 46.2685807,
+      "lon" : 12.5145164,
+      "tags" : {
+               "addr" : "Via Antonio Giordani  18, CLAUT",
+               "ref:mds" : "5772",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT01486070939",
+               "name" : "Valcellina Chiaradia Roberta",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5773,
+      "lat" : 46.0459782,
+      "lon" : 12.8663172,
+      "tags" : {
+               "addr" : "Via Stretta  2, SAN GIORGIO DELLA RICHINVELDA",
+               "ref:mds" : "5773",
+               "start_date" : "2008-01-01",
+               "ref:vatin" : "IT01249660935",
+               "name" : "Zardo Di Cudugnotto",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5774,
+      "lat" : 46.1113262,
+      "lon" : 12.9004508,
+      "tags" : {
+               "addr" : "Corso Roma  40, SPILIMBERGO",
+               "ref:mds" : "5774",
+               "start_date" : "2016-12-01",
+               "ref:vatin" : "IT01555130937",
+               "name" : "Farmacia Santorini S.A.S. Di Santorini Cristina & C.",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5775,
+      "lat" : 46.1956302,
+      "lon" : 12.8706809,
+      "tags" : {
+               "addr" : "Via Roma  3, TRAVESIO",
+               "ref:mds" : "5775",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT-",
+               "name" : "Iogna Prat Dott. Stefano",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5777,
+      "lat" : 45.9799623,
+      "lon" : 12.6961915,
+      "tags" : {
+               "addr" : "Via Sclavons  54/a, CORDENONS",
+               "ref:mds" : "5777",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT00142410935",
+               "name" : "Comunale Cordenons",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5778,
+      "lat" : 45.9652679,
+      "lon" : 12.7745521,
+      "tags" : {
+               "addr" : "Via Trieste  22/A, ZOPPOLA",
+               "ref:mds" : "5778",
+               "operator" : "Valentino Trojani & C. Sas",
+               "start_date" : "2016-08-01",
+               "ref:vatin" : "IT01598550935",
+               "name" : "Trojani",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5779,
+      "lat" : 45.8501389,
+      "lon" : 12.6283377,
+      "tags" : {
+               "addr" : "Via Roma  90, PASIANO DI PORDENONE",
+               "ref:mds" : "5779",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00628510935",
+               "name" : "Romor Emilia",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5783,
+      "lat" : 46.0979709,
+      "lon" : 12.5958995,
+      "tags" : {
+               "addr" : "Via Trieste  130, AVIANO",
+               "ref:mds" : "5783",
+               "start_date" : "2008-01-01",
+               "ref:vatin" : "IT01213140930",
+               "name" : "Sangianantoni Gianfranco",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5785,
+      "lat" : 45.9688528,
+      "lon" : 12.611384,
+      "tags" : {
+               "addr" : "Corso Italia  2/A, PORCIA",
+               "ref:mds" : "5785",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT02491510265",
+               "name" : "De Lucca Gianpaolo",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5786,
+      "lat" : 45.961541,
+      "lon" : 12.6125165,
+      "tags" : {
+               "addr" : "Via Roma  8/10, PORCIA",
+               "ref:mds" : "5786",
+               "operator" : "Renzo Toffolo & C.",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01769860931",
+               "name" : "All'igea S.A.S",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5787,
+      "lat" : 45.9713814,
+      "lon" : 12.6502307,
+      "tags" : {
+               "addr" : "Via Montereale  61, PORDENONE",
+               "ref:mds" : "5787",
+               "start_date" : "2010-10-01",
+               "ref:vatin" : "IT00081570939",
+               "name" : "Comunale Via Montereale",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5789,
+      "lat" : 46.0362143,
+      "lon" : 12.6787626,
+      "tags" : {
+               "addr" : "Via Piazzetta  5, SAN QUIRINO",
+               "ref:mds" : "5789",
+               "start_date" : "2008-01-01",
+               "ref:vatin" : "IT01063230930",
+               "name" : "Besa Bernardo Leonardo",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5793,
+      "lat" : 45.9626716,
+      "lon" : 12.654254,
+      "tags" : {
+               "addr" : "Viale Michelangelo Grigoletti  1, PORDENONE",
+               "ref:mds" : "5793",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT00081570939",
+               "name" : "Comunale Viale Grigoletti",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5796,
+      "lat" : 45.9897307,
+      "lon" : 12.5471908,
+      "tags" : {
+               "addr" : "Piazza Julia  11, FONTANAFREDDA",
+               "ref:mds" : "5796",
+               "operator" : "Bertolini Andrea e Bertolini Gianpietro Snc",
+               "start_date" : "2016-12-01",
+               "ref:vatin" : "IT01632740930",
+               "name" : "Bertolini",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5797,
+      "lat" : 46.0667704,
+      "lon" : 12.5874867,
+      "tags" : {
+               "addr" : "Via Roma  32/a, AVIANO",
+               "ref:mds" : "5797",
+               "start_date" : "2018-05-01",
+               "ref:vatin" : "IT01840660938",
+               "name" : "Farmacia Dottori Benetti 1933 S.A.S. Della Dott.Ssa Giulia Benetti",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5798,
+      "lat" : 45.9544098,
+      "lon" : 12.6540749,
+      "tags" : {
+               "addr" : "Via Cappuccini  11, PORDENONE",
+               "ref:mds" : "5798",
+               "start_date" : "2015-02-01",
+               "ref:vatin" : "IT00081570939",
+               "name" : "Comunale V.Cappuccini",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5799,
+      "lat" : 45.881871,
+      "lon" : 12.7141084,
+      "tags" : {
+               "addr" : "Piazza Liberta  71, AZZANO DECIMO",
+               "ref:mds" : "5799",
+               "start_date" : "2015-02-01",
+               "ref:vatin" : "IT01533800932",
+               "name" : "Innocente S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5800,
+      "lat" : 45.9672765,
+      "lon" : 12.6667224,
+      "tags" : {
+               "addr" : "Via S. Valentino  23, PORDENONE",
+               "ref:mds" : "5800",
+               "start_date" : "2013-04-01",
+               "ref:vatin" : "IT01135660932",
+               "name" : "Paludo Giorgio",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5801,
+      "lat" : 45.8948808,
+      "lon" : 12.5556494,
+      "tags" : {
+               "addr" : "Via Santarossa  26, BRUGNERA",
+               "ref:mds" : "5801",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00241520931",
+               "name" : "Nassivera Paolo",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5802,
+      "lat" : 45.9684114,
+      "lon" : 12.4478731,
+      "tags" : {
+               "addr" : "Via Martiri Garibaldini  3, CANEVA",
+               "ref:mds" : "5802",
+               "start_date" : "2007-04-01",
+               "ref:vatin" : "IT01576060931",
+               "name" : "Sommacal S.N.C Di Sommacal Anna Maria E Sommacal Tiziano",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5803,
+      "lat" : 45.9536684,
+      "lon" : 12.5004478,
+      "tags" : {
+               "addr" : "Via Giuseppe Garibaldi  21, SACILE",
+               "ref:mds" : "5803",
+               "start_date" : "2015-02-01",
+               "ref:vatin" : "IT00382990935",
+               "name" : "All'esculapio Dott. Romor Gino",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5804,
+      "lat" : 45.9566579,
+      "lon" : 12.4992570668046,
+      "tags" : {
+               "addr" : "Via Ettoreo  4, SACILE",
+               "ref:mds" : "5804",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00262850936",
+               "name" : "Comunale S.Gregorio",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5805,
+      "lat" : 45.9797977,
+      "lon" : 12.4818404,
+      "tags" : {
+               "addr" : "Via Sacile  2, CANEVA",
+               "ref:mds" : "5805",
+               "operator" : "Massimiliano Bonin & C.",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01768810937",
+               "name" : "Bonin S.A.S",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5808,
+      "lat" : 46.233651,
+      "lon" : 12.959011,
+      "tags" : {
+               "addr" : "Via Macilas  1, VITO DASIO",
+               "ref:mds" : "5808",
+               "start_date" : "2008-01-01",
+               "ref:vatin" : "IT01300920939",
+               "name" : "Marangoni Alberta",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5809,
+      "lat" : 46.0425006,
+      "lon" : 12.5315713,
+      "tags" : {
+               "addr" : "Via Panizzut  6/A, BUDOIA",
+               "ref:mds" : "5809",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01740550932",
+               "name" : "Due Mondi Di Kahol Nabil Khalil",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5811,
+      "lat" : 45.9594744,
+      "lon" : 12.6629318,
+      "tags" : {
+               "addr" : "Piazza Risorgimento  27, PORDENONE",
+               "ref:mds" : "5811",
+               "start_date" : "2008-01-01",
+               "ref:vatin" : "IT01318590930",
+               "name" : "Badanai Scalzato Emilio",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5812,
+      "lat" : 46.0159303,
+      "lon" : 12.5145878,
+      "tags" : {
+               "addr" : "Via Pordenone  89/91, POLCENIGO",
+               "ref:mds" : "5812",
+               "operator" : "Paolo e Annarosa Furlanis Snc",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT01632410930",
+               "name" : "Furlanis",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5813,
+      "lat" : 45.9880614,
+      "lon" : 12.7066155,
+      "tags" : {
+               "addr" : "Via Giuseppe Mazzini  70, CORDENONS",
+               "ref:mds" : "5813",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT01329430936",
+               "name" : "Ai Due Gigli Salbego Gianbattista",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5815,
+      "lat" : 46.1470315,
+      "lon" : 12.6988022,
+      "tags" : {
+               "addr" : "Viale San Bartolomeo  23, VAJONT",
+               "ref:mds" : "5815",
+               "start_date" : "2008-01-01",
+               "ref:vatin" : "IT01338000936",
+               "name" : "Solero Giuseppe",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5816,
+      "lat" : 45.8959953,
+      "lon" : 12.6730958,
+      "tags" : {
+               "addr" : "Via Corva  11, AZZANO DECIMO",
+               "ref:mds" : "5816",
+               "start_date" : "2015-02-01",
+               "ref:vatin" : "IT01357320934",
+               "name" : "Selva Giuseppe",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5817,
+      "lat" : 46.1461189,
+      "lon" : 12.7908225,
+      "tags" : {
+               "addr" : "Via Vittorio Emanuele  25, ARBA",
+               "ref:mds" : "5817",
+               "operator" : "Anna Valentina Rosa e Giovanni R",
+               "start_date" : "2015-02-01",
+               "ref:vatin" : "IT01507890935",
+               "name" : "Farmacia Rosa Dr. Sante S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5818,
+      "lat" : 45.9422965,
+      "lon" : 12.6688963,
+      "tags" : {
+               "addr" : "Via Giosue Carducci  17, PORDENONE",
+               "ref:mds" : "5818",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01376770937",
+               "name" : "Borsatti Giovanni",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5819,
+      "lat" : 45.9196914,
+      "lon" : 12.7588088,
+      "tags" : {
+               "addr" : "Via Alessandro Manzoni  24, FIUME VENETO",
+               "ref:mds" : "5819",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT01376760938",
+               "name" : "Avezzu' Roberta",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5821,
+      "lat" : 45.8457432,
+      "lon" : 12.8807281,
+      "tags" : {
+               "addr" : "Via Battaglione Gemona  79, CORDOVADO",
+               "ref:mds" : "5821",
+               "operator" : "Roberto Bariani",
+               "start_date" : "2015-02-01",
+               "ref:vatin" : "IT01648870937",
+               "name" : "Bariani",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5825,
+      "lat" : 45.9552075,
+      "lon" : 12.8436915,
+      "tags" : {
+               "addr" : "Via Udine  19, CASARSA DELLA DELIZIA",
+               "ref:mds" : "5825",
+               "start_date" : "2013-04-01",
+               "ref:vatin" : "IT01464470937",
+               "name" : "Cristofoli Lucia",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5826,
+      "lat" : 45.9699555,
+      "lon" : 12.6760163,
+      "tags" : {
+               "addr" : "Via Piave   93, PORDENONE",
+               "ref:mds" : "5826",
+               "start_date" : "2013-04-01",
+               "ref:vatin" : "IT01599910930",
+               "name" : "Bellavitis Di Anna Bellavitis  & C. S.A.S",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5828,
+      "lat" : 45.897168,
+      "lon" : 12.6001496914666,
+      "tags" : {
+               "addr" : "Via Opitergina  40, PRATA DI PORDENONE",
+               "ref:mds" : "5828",
+               "start_date" : "2016-08-01",
+               "ref:vatin" : "IT00732170253",
+               "name" : "Bisatti Anna Vittoria",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5829,
+      "lat" : 45.94745,
+      "lon" : 12.50012,
+      "tags" : {
+               "addr" : "Via Bertolissi  9, SACILE",
+               "ref:mds" : "5829",
+               "start_date" : "2012-01-01",
+               "ref:vatin" : "IT04466400266",
+               "name" : "Farmacia Alla Stazione Dott. Francesco Pozza",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5830,
+      "lat" : 45.8197291,
+      "lon" : 12.698313,
+      "tags" : {
+               "addr" : "Via Roma  123, PRAVISDOMINI",
+               "ref:mds" : "5830",
+               "start_date" : "2015-02-01",
+               "ref:vatin" : "IT00635810930",
+               "name" : "Princivalli Michele",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 5832,
+      "lat" : 45.9424964,
+      "lon" : 12.8373072,
+      "tags" : {
+               "addr" : "Via Plebiscito  50/52, CASARSA DELLA DELIZIA",
+               "ref:mds" : "5832",
+               "start_date" : "2015-02-01",
+               "ref:vatin" : "IT04362301212",
+               "name" : "Bellot Francesca",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 16374,
+      "lat" : 45.9893121,
+      "lon" : 13.3778994,
+      "tags" : {
+               "addr" : "Via Stazione  60, MANZANO",
+               "ref:mds" : "16374",
+               "operator" : "Sbuelz Maria e Raccanello Giovannia",
+               "start_date" : "2010-06-01",
+               "ref:vatin" : "IT02592520304",
+               "name" : "Sbuelz S.N.C ",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 16580,
+      "lat" : 45.6678413,
+      "lon" : 13.1061949,
+      "tags" : {
+               "addr" : "Raggio dellOstro  12, LIGNANO SABBIADORO",
+               "ref:mds" : "16580",
+               "start_date" : "2005-01-01",
+               "ref:vatin" : "IT00827170309",
+               "name" : "Azienda Speciale Farmacia",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 17527,
+      "lat" : 45.8835196,
+      "lon" : 12.7074798,
+      "tags" : {
+               "addr" : "Viale Rimembranze  51, AZZANO DECIMO",
+               "ref:mds" : "17527",
+               "start_date" : "2010-09-01",
+               "ref:vatin" : "IT01537900936",
+               "name" : "Comunale Di Azzano S.R.L",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 17753,
+      "lat" : 46.3897373,
+      "lon" : 12.9936311,
+      "tags" : {
+               "addr" : "Via Udine  2, VERZEGNIS",
+               "ref:mds" : "17753",
+               "operator" : "Francesco Ruggero Panatta & C. S.A.S.",
+               "start_date" : "2016-07-01",
+               "ref:vatin" : "IT02858990308",
+               "name" : "Verzwgnis",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 17907,
+      "lat" : 46.3936401,
+      "lon" : 12.6718342,
+      "tags" : {
+               "addr" : "Via Tredolo  1, FORNI DI SOTTO",
+               "ref:mds" : "17907",
+               "start_date" : "2018-06-01",
+               "ref:vatin" : "IT02709210302",
+               "name" : "Farmacia Varmost S.A.S. Della Dott.Ssa Emanuela Graziani",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 17981,
+      "lat" : 45.9470395,
+      "lon" : 12.6053268,
+      "tags" : {
+               "addr" : "Via Don Cum  1, PORCIA",
+               "ref:mds" : "17981",
+               "start_date" : "2015-03-01",
+               "ref:vatin" : "IT01334360938",
+               "name" : "Comunali Fvg Spa - Palse",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 18016,
+      "lat" : 45.8133495,
+      "lon" : 13.3499041,
+      "tags" : {
+               "addr" : "Via Monfalcone  7, CERVIGNANO DEL FRIULI",
+               "ref:mds" : "18016",
+               "start_date" : "2007-08-01",
+               "ref:vatin" : "IT02408480305",
+               "name" : "Comunale Citta'  S.R.L Di Cervignano Ausa Servizi Salute",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 18504,
+      "lat" : 46.1952572,
+      "lon" : 12.7699994,
+      "tags" : {
+               "addr" : "Via Roma  19, CAVASSO NUOVO",
+               "ref:mds" : "18504",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT03607990243",
+               "name" : "Simone Patrizia",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 18513,
+      "lat" : 45.9573224,
+      "lon" : 12.9957712,
+      "tags" : {
+               "addr" : "Piazzale Gemona  2, CODROIPO",
+               "ref:mds" : "18513",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT01673810931",
+               "name" : "Cannistraro",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 18527,
+      "lat" : 46.2867024,
+      "lon" : 12.4355536,
+      "tags" : {
+               "addr" : "Via Roma  15/B, CIMOLAIS",
+               "ref:mds" : "18527",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT04181720281",
+               "name" : "Scarabello Silvia",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 18537,
+      "lat" : 45.9170065,
+      "lon" : 13.4249152,
+      "tags" : {
+               "addr" : "Via Scuole  9, MEDEA",
+               "ref:mds" : "18537",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT01120560311",
+               "name" : "Rajgelj Chiara",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 18545,
+      "lat" : 45.983994,
+      "lon" : 12.685909,
+      "tags" : {
+               "addr" : "Via Giotto  24, CORDENONS",
+               "ref:mds" : "18545",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01769040930",
+               "name" : "Perissinotti S.N.C Di  Di Anna Perissinotti & C.",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 18554,
+      "lat" : 46.5269868,
+      "lon" : 12.9864888,
+      "tags" : {
+               "addr" : "Via Taviele  3, CERCIVENTO",
+               "ref:mds" : "18554",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02716930306",
+               "name" : "Kaspar Vladimir",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 18585,
+      "lat" : 46.1671334,
+      "lon" : 12.8294754,
+      "tags" : {
+               "addr" : "Via G. Ellero  14, SEQUALS",
+               "ref:mds" : "18585",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT03127780835",
+               "name" : "Emanuele Maria Rita",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 18608,
+      "lat" : 46.21548355,
+      "lon" : 12.7145356108969,
+      "tags" : {
+               "ref:mds" : "18608",
+               "start_date" : "2011-05-01",
+               "ref:vatin" : "IT01691110934",
+               "name" : "Sarno Dott.Ssa Brunella",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 18643,
+      "lat" : 46.149721,
+      "lon" : 12.746941,
+      "tags" : {
+               "addr" : "Via Dei Venier  1/a, MANIAGO",
+               "ref:mds" : "18643",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01334360938",
+               "name" : "Comunale Di Campagna",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 18655,
+      "lat" : 46.461961,
+      "lon" : 13.0260697,
+      "tags" : {
+               "addr" : "Via Giulio Cesare  1, ZUGLIO",
+               "ref:mds" : "18655",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT02663070304",
+               "name" : "Geatti",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 18708,
+      "lat" : 45.9304362,
+      "lon" : 13.4950964,
+      "tags" : {
+               "addr" : "Via Francesco Petrarca  15, MORARO",
+               "ref:mds" : "18708",
+               "start_date" : "2013-03-01",
+               "ref:vatin" : "IT02635630300",
+               "name" : "Erbe Di Cercivento Di Lazzari Patrizia",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 18786,
+      "lat" : 45.8629158,
+      "lon" : 12.7556559,
+      "tags" : {
+               "addr" : "Via Vittorio Veneto  74, CHIONS",
+               "ref:mds" : "18786",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01334360938",
+               "name" : "Farmacie Comunali Fvg Spa - Villotta",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 18901,
+      "lat" : 46.1567564,
+      "lon" : 13.5934913,
+      "tags" : {
+               "addr" : "Frazione Clodig  31, GRIMACCO",
+               "ref:mds" : "18901",
+               "start_date" : "2014-03-01",
+               "ref:vatin" : "IT05205350654",
+               "name" : "Peduto",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 19389,
+      "lat" : 46.0695612,
+      "lon" : 13.1884077,
+      "tags" : {
+               "addr" : "Via Principale  4-6, PASIAN DI PRATO",
+               "ref:mds" : "19389",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02873010306",
+               "name" : "Farmacia Di Passons S.N.C.",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 19398,
+      "lat" : 45.9628134,
+      "lon" : 12.5216704,
+      "tags" : {
+               "ref:mds" : "19398",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01812570933",
+               "name" : "Farmacia Vittoria S.N.C. Dei Dottori Angelo Giambalvo Gianna Vido E Sara Della Giustina",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 19404,
+      "lat" : 45.9046103,
+      "lon" : 12.596465,
+      "tags" : {
+               "addr" : "Via Tamai  1, PRATA DI PORDENONE",
+               "ref:mds" : "19404",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT04848020261",
+               "name" : "Farmacia Zanon Dr.Ssa Stefania",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 19405,
+      "lat" : 46.0737519,
+      "lon" : 13.2101646,
+      "tags" : {
+               "addr" : "Via Martignacco  227, UDINE",
+               "ref:mds" : "19405",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02872600305",
+               "name" : "Farmacia Del Sole S.N.C. Di Cescutti Silvio, Verardo Nicola E Zanette Caterina",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 19411,
+      "lat" : 45.640457,
+      "lon" : 13.774943,
+      "tags" : {
+               "addr" : "Via Tacco  6, TRIESTE",
+               "ref:mds" : "19411",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT01291840328",
+               "name" : "Farmacia San Marco S.N.C.",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 19412,
+      "lat" : 46.0401356,
+      "lon" : 13.2536535,
+      "tags" : {
+               "addr" : "Viale Palmanova  284, UDINE",
+               "ref:mds" : "19412",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02879230304",
+               "name" : "Farmacia Palmanova 284 S.N.C. Di Dott.Ssa Porcedda & C.",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 19418,
+      "lat" : 46.0801784,
+      "lon" : 13.2186462,
+      "tags" : {
+               "addr" : "Via del Cotonificio  129, UDINE",
+               "ref:mds" : "19418",
+               "start_date" : "2017-03-01",
+               "ref:vatin" : "IT03607990243",
+               "name" : "Farmacia Simone Dr.Ssa Patrizia",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 19419,
+      "lat" : 46.0153111,
+      "lon" : 13.2116422,
+      "tags" : {
+               "addr" : "Via Lignano  41, POZZUOLO DEL FRIULI",
+               "ref:mds" : "19419",
+               "start_date" : "2017-07-01",
+               "ref:vatin" : "IT02882080308",
+               "name" : "Farmacia Sant'andrea Del Dr. Mario Codarin",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 19477,
+      "lat" : 45.9787673,
+      "lon" : 12.5016371,
+      "tags" : {
+               "addr" : "Via Stadio   2, FONTANAFREDDA",
+               "ref:mds" : "19477",
+               "operator" : "Gobbo E. e Zavatarelli M.",
+               "start_date" : "2017-05-01",
+               "ref:vatin" : "IT01821760939",
+               "name" : "Farmacia Di Nave S.N.C",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 19864,
+      "lat" : 45.9270973,
+      "lon" : 12.6428461,
+      "tags" : {
+               "ref:mds" : "19864",
+               "start_date" : "2018-02-01",
+               "ref:vatin" : "IT01824740938",
+               "name" : "Farmacia Naonis S.N.C. Delle Dr.Sse Chiara Cestaro E Chiara Zanatta",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 19886,
+      "lat" : 45.9770647,
+      "lon" : 13.4002597,
+      "tags" : {
+               "addr" : "Via Delle Scuole  17, SAN GIOVANNI AL NATISONE",
+               "ref:mds" : "19886",
+               "start_date" : "2018-03-01",
+               "ref:vatin" : "IT02888570302",
+               "name" : "Farmacia Di Villanova S.N.C. Dei Dottori Cristina Busatto E Guido Antonelli",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 19893,
+      "lat" : 45.9500624,
+      "lon" : 12.7590196382011,
+      "tags" : {
+               "addr" : "Via Montello  23,25, ZOPPOLA",
+               "ref:mds" : "19893",
+               "start_date" : "2018-03-01",
+               "ref:vatin" : "IT01824460933",
+               "name" : "Farmacia Rosa Dei Venti S.N.C. Delle Dr.Sse Cristina Battistella E Rossana Chiaradia",
+               "amenity" : "pharmacy"
+               }
+    }
+,
+    {
+      "id"  : 19915,
+      "lat" : 46.4020924,
+      "lon" : 13.019478,
+      "tags" : {
+               "addr" : "Piazzale Vittorio Veneto  6, TOLMEZZO",
+               "ref:mds" : "19915",
+               "start_date" : "2018-03-01",
+               "ref:vatin" : "IT02915420307",
+               "name" : "Farmacia Citta' Alpina S.N.C. Delle Dott.Sse Spangher L.A. E Murer D.",
+               "amenity" : "pharmacy"
+               }
+    }
+]

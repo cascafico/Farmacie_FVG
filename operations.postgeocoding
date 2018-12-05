@@ -1,0 +1,108 @@
+[
+  {
+    "op": "core/column-split",
+    "description": "Split column DESCRIZIONEFARMACIA by separator",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "DESCRIZIONEFARMACIA",
+    "guessCellType": false,
+    "removeOriginalColumn": false,
+    "mode": "separator",
+    "separator": "\\sDEL\\sD|\\sDEI\\sD|\\sDELLA\\sD|\\sDELLE\\sD",
+    "regex": true,
+    "maxColumns": 2
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DESCRIZIONEFARMACIA 2 using expression grel:replace(value, /^[A-Z-.]+\\s/, \"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "DESCRIZIONEFARMACIA 2",
+    "expression": "grel:replace(value, /^[A-Z-.]+\\s/, \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DESCRIZIONEFARMACIA 1 using expression grel:replace(value, \"SNC\", \"S.N.C\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "DESCRIZIONEFARMACIA 1",
+    "expression": "grel:replace(value, \"SNC\", \"S.N.C\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DESCRIZIONEFARMACIA 1 using expression grel:replace(value, \"SRL\", \"S.R.L\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "DESCRIZIONEFARMACIA 1",
+    "expression": "grel:replace(value, \"SRL\", \"S.R.L\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DESCRIZIONEFARMACIA 1 using expression grel:replace(value, \"SAS\", \"S.A.S\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "DESCRIZIONEFARMACIA 1",
+    "expression": "grel:replace(value, \"SAS\", \"S.A.S\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DESCRIZIONEFARMACIA 1 using expression value.toTitlecase()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "DESCRIZIONEFARMACIA 1",
+    "expression": "value.toTitlecase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DESCRIZIONEFARMACIA 2 using expression value.toTitlecase()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "DESCRIZIONEFARMACIA 2",
+    "expression": "value.toTitlecase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DESCRIZIONEFARMACIA 2 using expression grel:replace(value, \" E \", \" e \")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "DESCRIZIONEFARMACIA 2",
+    "expression": "grel:replace(value, \" E \", \" e \")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  }
+]

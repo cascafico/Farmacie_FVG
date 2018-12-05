@@ -1,0 +1,16 @@
+    {
+      "id"  : {{(cells["ref:mds"].value)}},
+      "lat" : {{(cells["LATITUDINE"].value)}},
+      "lon" : {{(cells["LONGITUDINE"].value)}},
+      "tags" : {
+               "ref:mds" : {{jsonize(cells["ref:mds"].value)}},
+               "operator" : {{jsonize(cells["operator"].value)}},
+               "ref:vatin" : {{jsonize(cells["ref:vatin"].value)}},
+               "name" : {{jsonize(cells["name"].value)}},
+               "addr:street" : {{jsonize(cells["addr:street"].value)}},
+               "addr:housenumber" : {{jsonize(cells["addr:housenumber"].value)}},
+               "addr:postcode" : {{jsonize(cells["addr:postcode"].value)}},
+               "addr:city" : {{jsonize(cells["addr:city"].value)}},
+               }
+    }
+

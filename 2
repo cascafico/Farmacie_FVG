@@ -1,0 +1,612 @@
+          "invert": false,
+          "caseSensitive": true,
+          "query": "d.",
+          "name": "description",
+          "type": "text",
+          "columnName": "description"
+        }
+      ]
+    },
+    "columnName": "description",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Calderone Sd.Ssa Eleonora B."
+        ],
+        "to": "Calderone S d.ssa Eleonora B."
+      }
+    ]
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column description using expression grel:replace(value, \" dei dot\", \"|dot\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "description",
+    "expression": "grel:replace(value, \" dei dot\", \"|dot\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column description using expression grel:replace(value, \" di \", \"|\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "description",
+    "expression": "grel:replace(value, \" di \", \"|\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column description using expression grel:replace(value, \" della d\", \"|d\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "description",
+    "expression": "grel:replace(value, \" della d\", \"|d\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column description",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "mode": "text",
+          "invert": false,
+          "caseSensitive": true,
+          "query": "della d",
+          "name": "description",
+          "type": "text",
+          "columnName": "description"
+        }
+      ]
+    },
+    "columnName": "description",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Vieni S.N.C. Del dott. Fabrizio Medulla Edella dott.ssa Vieni Donata"
+        ],
+        "to": "Vieni S.N.C. |dott. Fabrizio Medulla e della dott.ssa Vieni Donata"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column description",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "mode": "text",
+          "invert": false,
+          "caseSensitive": true,
+          "query": "della d",
+          "name": "description",
+          "type": "text",
+          "columnName": "description"
+        }
+      ]
+    },
+    "columnName": "description",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Parisidella dr.ssa Domenica Franca Maria Parisi e C. S.A.S."
+        ],
+        "to": "Parisidella|dr.ssa Domenica Franca Maria Parisi e C. S.A.S."
+      }
+    ]
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column description using expression grel:replace(value, \"dei Dottori\", \"|d.ri\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "description",
+    "expression": "grel:replace(value, \"dei Dottori\", \"|d.ri\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column description using expression grel:replace(value, \"Del Dottor\", \"|dr.\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "description",
+    "expression": "grel:replace(value, \"Del Dottor\", \"|dr.\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column description using expression grel:replace(value, \"Della dott.ssa\", \"|d.ssa\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "description",
+    "expression": "grel:replace(value, \"Della dott.ssa\", \"|d.ssa\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column description using expression grel:replace(value, \"della dott.ssa\", \"|d.ssa\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "description",
+    "expression": "grel:replace(value, \"della dott.ssa\", \"|d.ssa\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column description using expression grel:replace(value, \"dott.ri\", \"|dott.ri\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "description",
+    "expression": "grel:replace(value, \"dott.ri\", \"|dott.ri\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column description using expression grel:replace(value, \"dei dott.\", \"|dott.\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "description",
+    "expression": "grel:replace(value, \"dei dott.\", \"|dott.\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column description using expression grel:replace(value, \"Del dott.\", \"|dott.\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "description",
+    "expression": "grel:replace(value, \"Del dott.\", \"|dott.\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column description using expression grel:replace(value, \"dei Dott.\", \"|dott.\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "description",
+    "expression": "grel:replace(value, \"dei Dott.\", \"|dott.\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column description using expression grel:replace(value, \"Della dott\", \"|dott\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "description",
+    "expression": "grel:replace(value, \"Della dott\", \"|dott\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column description using expression grel:replace(value, \"Delle Dottoresse\", \"|dott.sse\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "description",
+    "expression": "grel:replace(value, \"Delle Dottoresse\", \"|dott.sse\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column description using expression grel:replace(value, \"Delle Dr.Sse\", \"|dott.sse\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "description",
+    "expression": "grel:replace(value, \"Delle Dr.Sse\", \"|dott.sse\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column description using expression grel:replace(value, \"dr. \", \"|dr. \")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "description",
+    "expression": "grel:replace(value, \"dr. \", \"|dr. \")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column description using expression grel:replace(value, \"Delle Drsse\", \"|dott.sse\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "description",
+    "expression": "grel:replace(value, \"Delle Drsse\", \"|dott.sse\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-split",
+    "description": "Split column description by separator",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "description",
+    "guessCellType": false,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": "|",
+    "regex": false,
+    "maxColumns": 2
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column description 2 using expression grel:replace(value, \"|\", \" \")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "description 2",
+    "expression": "grel:replace(value, \"|\", \" \")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column ref:vatin using expression grel:replace(value, \"IT-\", \"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "ref:vatin",
+    "expression": "grel:replace(value, \"IT-\", \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column description 1 to name",
+    "oldColumnName": "description 1",
+    "newColumnName": "name"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column addr:city using expression grel:replace(value, \" Del \", \" del \")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "mode": "text",
+          "invert": false,
+          "caseSensitive": true,
+          "query": "Del ",
+          "name": "addr:city",
+          "type": "text",
+          "columnName": "addr:city"
+        }
+      ]
+    },
+    "columnName": "addr:city",
+    "expression": "grel:replace(value, \" Del \", \" del \")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column addr:city using expression grel:replace(value, \" Al \", \" al \")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "mode": "text",
+          "invert": false,
+          "caseSensitive": true,
+          "query": " Al ",
+          "name": "addr:city",
+          "type": "text",
+          "columnName": "addr:city"
+        }
+      ]
+    },
+    "columnName": "addr:city",
+    "expression": "grel:replace(value, \" Al \", \" al \")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column addr:city using expression grel:replace(value, \" Sul \", \" sul \")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "mode": "text",
+          "invert": false,
+          "caseSensitive": true,
+          "query": " Sul ",
+          "name": "addr:city",
+          "type": "text",
+          "columnName": "addr:city"
+        }
+      ]
+    },
+    "columnName": "addr:city",
+    "expression": "grel:replace(value, \" Sul \", \" sul \")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column addr:city using expression grel:replace(value, \" Di \", \" di \")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "mode": "text",
+          "invert": false,
+          "caseSensitive": true,
+          "query": " ",
+          "name": "addr:city",
+          "type": "text",
+          "columnName": "addr:city"
+        }
+      ]
+    },
+    "columnName": "addr:city",
+    "expression": "grel:replace(value, \" Di \", \" di \")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column addr:place using expression value.toTitlecase()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "addr:place",
+    "expression": "value.toTitlecase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column addr:place using expression grel:replace(value, \" Di \", \" di \")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "mode": "text",
+          "invert": false,
+          "caseSensitive": false,
+          "query": " ",
+          "name": "addr:place",
+          "type": "text",
+          "columnName": "addr:place"
+        }
+      ]
+    },
+    "columnName": "addr:place",
+    "expression": "grel:replace(value, \" Di \", \" di \")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column addr:place using expression grel:replace(value, \" Sul \", \" sul \")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "mode": "text",
+          "invert": false,
+          "caseSensitive": false,
+          "query": " ",
+          "name": "addr:place",
+          "type": "text",
+          "columnName": "addr:place"
+        }
+      ]
+    },
+    "columnName": "addr:place",
+    "expression": "grel:replace(value, \" Sul \", \" sul \")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column addr:place using expression grel:replace(value, \" Del \", \" del \")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "mode": "text",
+          "invert": false,
+          "caseSensitive": false,
+          "query": " ",
+          "name": "addr:place",
+          "type": "text",
+          "columnName": "addr:place"
+        }
+      ]
+    },
+    "columnName": "addr:place",
+    "expression": "grel:replace(value, \" Del \", \" del \")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column addr:place using expression grel:replace(value, \" Al \", \" al \")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "mode": "text",
+          "invert": false,
+          "caseSensitive": false,
+          "query": " ",
+          "name": "addr:place",
+          "type": "text",
+          "columnName": "addr:place"
+        }
+      ]
+    },
+    "columnName": "addr:place",
+    "expression": "grel:replace(value, \" Al \", \" al \")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column addr:street using expression grel:replace(value, \"D'Assisi\", \"d'Assisi\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "addr:street",
+    "expression": "grel:replace(value, \"D'Assisi\", \"d'Assisi\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column addr:street using expression grel:replace(value, \"D'Aosta\", \"d'Aosta\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "addr:street",
+    "expression": "grel:replace(value, \"D'Aosta\", \"d'Aosta\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column description 2 to operator",
+    "oldColumnName": "description 2",
+    "newColumnName": "operator"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column name using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "name",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column operator using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "operator",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column addr:street using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "addr:street",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column ODICEIDENTIFICATIVOFARMACIA to ref:mds",
+    "oldColumnName": "ODICEIDENTIFICATIVOFARMACIA",
+    "newColumnName": "ref:mds"
+  }
+]

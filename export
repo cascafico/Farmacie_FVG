@@ -1,0 +1,16 @@
+    {
+      "id"  : {{(cells["CODICEIDENTIFICATIVOFARMACIA"].value)}},
+      "lat" : {{(cells["lat"].value)}},
+      "lon" : {{(cells["lng"].value)}},
+      "tags" : {
+               "addr" : {{jsonize(cells["street"].value+" "+ cells["housenumber"].value+", "+ cells["city"].value)}},
+               "ref:mds" : {{jsonize(cells["CODICEIDENTIFICATIVOFARMACIA"].value)}},
+               "operator" : {{jsonize(cells["DESCRIZIONEFARMACIA 2"].value)}},
+               "start_date" : {{jsonize(cells["DATAINIZIOVALIDITA"].value)}},
+               "ref:vatin" : {{jsonize("IT"+cells["PARTITAIVA"].value)}},
+               "name" : {{jsonize(cells["DESCRIZIONEFARMACIA 1"].value)}},
+               "amenity" : "pharmacy",
+               "dispensing" : "yes"
+               }
+    }
+

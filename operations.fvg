@@ -1,0 +1,325 @@
+[
+  {
+    "op": "core/column-removal",
+    "description": "Remove column CODFARMACIAASSEGNATODAASL",
+    "columnName": "CODFARMACIAASSEGNATODAASL"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column CODICEPROVINCIAISTAT",
+    "columnName": "CODICEPROVINCIAISTAT"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column SIGLAPROVINCIA",
+    "columnName": "SIGLAPROVINCIA"
+  },
+  {
+    "op": "core/row-removal",
+    "description": "Remove rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "14,5041034840709",
+                "l": "14,5041034840709"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "DESCRIZIONETIPOLOGIA",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "DESCRIZIONETIPOLOGIA"
+        }
+      ]
+    }
+  },
+  {
+    "op": "core/row-star",
+    "description": "Star rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "FRIULI VENEZIA GIULIA",
+                "l": "FRIULI VENEZIA GIULIA"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "DESCRIZIONEREGIONE",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "DESCRIZIONEREGIONE"
+        }
+      ]
+    },
+    "starred": true
+  },
+  {
+    "op": "core/row-removal",
+    "description": "Remove rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "row.starred",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "Starred Rows",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": ""
+        }
+      ]
+    }
+  },
+  {
+    "op": "core/row-star",
+    "description": "Unstar rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "starred": false
+  },
+  {
+    "op": "core/row-star",
+    "description": "Star rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "mode": "text",
+          "invert": false,
+          "caseSensitive": false,
+          "query": "-",
+          "name": "DATAFINEVALIDITA",
+          "type": "text",
+          "columnName": "DATAFINEVALIDITA"
+        }
+      ]
+    },
+    "starred": true
+  },
+  {
+    "op": "core/row-removal",
+    "description": "Remove rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "row.starred",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "Starred Rows",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": ""
+        }
+      ]
+    }
+  },
+  {
+    "op": "core/row-star",
+    "description": "Star rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Ordinaria",
+                "l": "Ordinaria"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "DESCRIZIONETIPOLOGIA",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "DESCRIZIONETIPOLOGIA"
+        }
+      ]
+    },
+    "starred": true
+  },
+  {
+    "op": "core/row-star",
+    "description": "Unstar rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "starred": false
+  },
+  {
+    "op": "core/row-star",
+    "description": "Star rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Ordinaria",
+                "l": "Ordinaria"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "DESCRIZIONETIPOLOGIA",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "DESCRIZIONETIPOLOGIA"
+        }
+      ]
+    },
+    "starred": true
+  },
+  {
+    "op": "core/row-removal",
+    "description": "Remove rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "row.starred",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "Starred Rows",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": ""
+        }
+      ]
+    }
+  },
+  {
+    "op": "core/row-star",
+    "description": "Unstar rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "starred": false
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column CODICETIPOLOGIA",
+    "columnName": "CODICETIPOLOGIA"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column DATAFINEVALIDITA",
+    "columnName": "DATAFINEVALIDITA"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column CODICEREGIONE",
+    "columnName": "CODICEREGIONE"
+  },
+  {
+    "op": "core/column-split",
+    "description": "Split column INDIRIZZO by separator",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "INDIRIZZO",
+    "guessCellType": false,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": ",",
+    "regex": false,
+    "maxColumns": 2
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column street at index 2 based on column INDIRIZZO 1 using expression grel:replace(value, \"'\", \"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "street",
+    "columnInsertIndex": 2,
+    "baseColumnName": "INDIRIZZO 1",
+    "expression": "grel:replace(value, \"'\", \"\")",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column city at index 9 based on column DESCRIZIONECOMUNE using expression grel:replace(value, \"'\", \"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "city",
+    "columnInsertIndex": 9,
+    "baseColumnName": "DESCRIZIONECOMUNE",
+    "expression": "grel:replace(value, \"'\", \"\")",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column INDIRIZZO 2 to housenumber",
+    "oldColumnName": "INDIRIZZO 2",
+    "newColumnName": "housenumber"
+  }
+]
+
